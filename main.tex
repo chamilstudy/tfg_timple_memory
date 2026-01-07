@@ -1,0 +1,118 @@
+\documentclass[oneside,12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage{standalone}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{lmodern}
+\usepackage{float}
+\usepackage[spanish]{babel}
+\usepackage{csquotes}
+\usepackage[figurename=Ilustración]{caption}
+\usepackage[numbers]{natbib}
+\usepackage{ragged2e}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{parskip}
+\usepackage{listings}
+\usepackage{epigraph}
+\usepackage{lipsum} % Texto de relleno en plantilla
+\usepackage{subcaption}
+\usepackage{amssymb}
+
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+% Glosario de términos - BEGIN
+\usepackage{glossaries}
+\makeglossaries\input{glosario.tex}
+% Glosario de términos - END
+
+%\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{color}\usepackage{graphicx,xcolor}
+
+\renewcommand{\lstlistingname}{Algoritmo}
+%\renewcommand{\lstlistlistingnam%e}{Índice de~\lstlistingname s}
+
+\floatname{algorithm}{Algoritmo}
+\renewcommand{\listalgorithmname}{Índice de~{\lstlistingname}s}
+
+
+\lstset{
+        basicstyle=\fontsize{7}{11}\ttfamily,
+        language=Java,
+        captionpos=b,
+}
+
+\usepackage{titlesec}
+\setcounter{secnumdepth}{3}
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+\urlstyle{same}
+\title{Aplicación web para la creación, difusión y práctica de canciones para el timple}
+\author{Chamil José Cruz Razeq}
+\date{Curso 2025~-~2026}
+\renewcommand{\contentsname}{Contenido}
+%\renewcommand{\figurename}{Ilustración}
+\addto\captionsspanish{%
+  \renewcommand{\figurename}{Figura}%
+}
+
+\newcommand{\figref}[1]{(véase Figura~\ref{#1})}
+\newcommand{\tabref}[1]{(véase Cuadro~\ref{#1})}
+
+
+
+\usepackage{pifont}
+%\renewcommand\labelitemi{\ding{52}}
+
+\renewcommand{\arraystretch}{1.5}
+
+\begin{document}
+%\maketittle
+\input{Portada.tex}
+
+\input{TFT04C.tex}
+
+\newpage
+\pagenumbering{roman}
+{\Large{\textbf{Agradecimientos}}}
+\input{Agradecimientos.tex}
+
+\clearpage
+\input{Resumen.tex}
+\tableofcontents
+
+%\addcontentsline{toc}{section}{Listings}
+%\lstlistoflistings
+\listofalgorithms\listoffigures\listoftables
+
+
+\clearpage
+\pagenumbering{arabic}
+
+\input{secciones/introduccion/introduccion}
+
+\input{secciones/metodologia/metodologia}
+
+\input{secciones/estado/estado}
+
+\input{secciones/normativa/normativa}
+
+\input{secciones/tecnologias/tecnologias}
+
+\input{secciones/desarrollo/desarrollo.tex}
+
+\input{secciones/resultados/resultados.tex}
+
+\input{secciones/manual/manual}
+
+\input{secciones/conclusiones/conclusiones.tex}
+
+\bibliography{ref}
+\bibliographystyle{IEEEtran}
+\clearpage
+
+\printglossaries\end{document}

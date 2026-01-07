@@ -1,0 +1,105 @@
+\section{Alcance del proyecto}
+
+En las secciones anteriores se ha realizado un estudio de mercado, identificando las aplicaciones web mas populares para otros instrumentos, listando y comparando sus utilidades y funcionalidades características, haciendo especial hincapié en aquellas funcionalidades menos comunes.
+
+De este modo, se han seleccionado aquellas utilidades y funcionalidades que cimentarán la aplicación web a desarrollar, estableciendo prioridades según su importancia \tabref{tab:timpletabs_utilidades_canciones} y \tabref{tab:timpletabs_funcionalidades}.
+
+\begin{table}[H]
+    \scriptsize
+    \begin{minipage}[t]{0.48\textwidth}
+        \centering
+        \caption{Prioridad de utilidades para TimpleTabs}\label{tab:timpletabs_utilidades_canciones}
+        \begin{tabular}{l c c c}
+            \hline
+            \multirow{2}{*}{\textbf{Utilidad}} & \multicolumn{3}{c}{\textbf{TimpleTabs}} \\
+             & Baja & Media & Alta \\
+            \hline
+            Transportador &  & \ding{51} & \\
+            Lista de acordes &   & & \ding{51} \\
+            Autodesplazamiento  &  & & \ding{51} \\
+            Impresión/Descarga  & \ding{51} & & \\
+            Cambio de notación  & & & \ding{51} \\
+            Cambio de instrumento & - & - & - \\
+            Guardar canción  &\ding{51} & & \\
+            Guía de rasgueos & & \ding{51} & \\
+            \hline
+        \end{tabular}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.48\textwidth}
+        \centering
+        \caption{Prioridad de funcionalidades para TimpleTabs}\label{tab:timpletabs_funcionalidades}
+        \begin{tabular}{p{0.48\textwidth} c c c }
+            \hline
+            \multirow{2}{*}{\textbf{Funcionalidad}} & \multicolumn{3}{c}{\textbf{TimpleTabs}} \\
+            & Baja & Media & Alta \\
+            \hline
+            Biblioteca de canciones & &  & \ding{51} \\
+            Creación y edición de publicaciones & & & \ding{51} \\
+            Utilidades en publicaciones & & &  \ding{51} \\
+            Comentar publicaciones & &  \ding{51} & \\
+            Puntuar publicaciones & &  \ding{51} & \\
+            Solicitar nuevas canciones & \ding{51} & & \\
+            Cursos y guías &  & \ding{51} & \\
+            Afinador &  & \ding{51} & \\
+            Calculadora de escalas y notas & & & \ding{51} \\
+            Diccionario de acordes & & & \ding{51} \\
+            \hline
+        \end{tabular}
+    \end{minipage}
+\end{table}
+
+Utilizando como referencia lo anterior, se han especificado una serie de requisitos funcionales y no funcionales \tabref{tab:requisitosfuncionales} y \tabref{tab:requisitosnofuncionales}. Estos requisitos definen el alcance del proyecto, sirviendo además como apoyo durante el desarrollo de modo que todas las funcionalidades implementadas cumplan con los objetivos establecidos.
+
+\begin{table}[H]
+    \centering
+    \scriptsize
+    \begin{tabular}{l p{0.58\textwidth} p{0.24\textwidth} l}
+        \textbf{ID} & \textbf{Requisito Funcional} & \textbf{Funcionalidad} & \textbf{Prio.} \\ \hline
+        RF1  & El usuario debe poder iniciar y cerrar sesión. & Cuenta de usuario & Alta \\ \hline
+        RF2  & El usuario debe poder registrarse utilizando su correo electrónico, contraseña y un nombre de usuario. & Cuenta de usuario & Alta \\ \hline
+        RF3  & El usuario debe poder modificar su perfil. & Cuenta de usuario & Alta \\ \hline
+        RF4  & El usuario debe poder recuperar o restablecer su contraseña en caso de olvido. & Cuenta de usuario & Alta \\ \hline
+        RF5  & El sistema debe validar que toda publicación incluya al menos título, letra y acordes. & Crear y editar publicaciones & Alta \\ \hline
+        RF6  & El usuario debe poder crear publicaciones en respuesta a solicitudes realizadas por otros usuarios. & Crear y editar publicaciones & Alta \\ \hline
+        RF7  & El usuario debe poder crear, editar y eliminar sus propias publicaciones. & Crear y editar publicaciones & Alta \\ \hline
+        RF8  & El usuario debe poder visualizar una lista de acordes en las publicaciones. & Utilidades en publicaciones & Alta \\ \hline
+        RF9  & El usuario debe poder activar y desactivar el autoscroll en una publicación. & Utilidades en publicaciones & Alta \\ \hline
+        RF10 & El usuario debe poder seleccionar una notación musical preferida. & Utilidades en publicaciones & Alta \\ \hline
+        RF12 & El usuario debe poder transportar los acordes de una publicación. & Utilidades en publicaciones & Media \\ \hline
+        RF13 & El usuario debe poder ver guías de rasgueos. & Utilidades en publicaciones & Media \\ \hline
+        RF14 & El usuario debe poder compartir publicaciones mediante enlace o redes sociales. & Utilidades en publicaciones & Media \\ \hline
+        RF15 & El usuario debe poder imprimir o descargar una publicación. & Utilidades en publicaciones & Baja \\ \hline
+        RF16 & El usuario debe poder visualizar una biblioteca de canciones. & Biblioteca de canciones & Alta \\ \hline
+        RF17 & El usuario debe poder acceder a una calculadora de escalas y notas. & Calculadora de escalas y notas & Alta \\ \hline
+        RF18 & El usuario debe poder acceder a un diccionario de acordes. & Diccionario de acordes & Alta \\ \hline
+        RF19 & El usuario debe poder acceder a un afinador interactivo. & Afinador & Media \\ \hline
+        RF20 & El afinador interactivo debe mostrar cuerdas, afinación objetivo y afinación actual. & Afinador & Alta \\ \hline
+        RF21 & El usuario debe poder comentar en publicaciones. & Comentar publicaciones & Media \\ \hline
+        RF22 & El usuario debe poder puntuar una publicación. & Puntuar publicaciones & Media \\ \hline
+        RF23 & El usuario debe poder acceder a páginas informativas sobre el instrumento. & Cursos y guías & Media \\ \hline
+        RF24 & El usuario debe poder guardar canciones en su carpeta personal. & Guardar canciones & Baja \\ \hline
+        RF25 & El usuario debe poder solicitar canciones. & Solicitar nuevas canciones & Baja \\ \hline
+    \end{tabular}
+    \caption{Requisitos Funcionales de la aplicación web corregidos}\label{tab:requisitosfuncionales}
+\end{table}
+
+
+\begin{table}[H]
+\centering
+\scriptsize
+\begin{tabular}{l p{0.84\textwidth} l}
+\textbf{ID} & \textbf{Requisito No Funcional} & \textbf{Prio.} \\ \hline
+RNF1 & El sistema debe ser responsivo, adaptándose a diferentes tamaños de pantalla y dispositivos. & Alta \\ \hline
+RNF2 & El sistema debe incluir una descripción textual (alt) en todas las imágenes. & Alta \\ \hline
+RNF3 & El sistema debe incluir un aria-label o aria-labelledby en todos los elementos interactivos, describiendo su función para lectores de pantalla. & Alta \\ \hline
+RNF4 & El sistema debe proporcionar navegación mediante un encabezado (header) y un pie de página (footer) consistentes en todas las vistas. & Alta \\
+\end{tabular}
+\caption{Requisitos No Funcionales de la aplicación web}\label{tab:requisitosnofuncionales}
+\end{table}
+
+%% En capítulos anteriores se ha hablado sobre los objetivos, la metodología, la planificación y analizado el estado y alternativas actuales en las que se desarrolla el proyecto. Utilizando como referencia las funcionalidades y utilidades identificadas anteriormente, podemos esbozar el alcance mínimo del proyecto \tabref{tab:timpletabs_utilidades_canciones} y \tabref{tab:timpletabs_funcionalidades}.
+
+%% Las funcionalidades y utilidades conformarán los cimientos de la aplicación web, que gracias a la metodlogía seleccionada, podrá transformarse en el proceso.
+
+%% En conclusión, la aplicación web tiene como alcance la implementación de las funcionalidades mínimas para el objetivo de creación, difusión y práctica de canciones para timple, siendo este último el protagonista que se tendrá en cuenta en decisiones como el diseño, la experiencia y el desarrollo.

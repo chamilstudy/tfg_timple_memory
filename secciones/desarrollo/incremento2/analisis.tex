@@ -1,0 +1,37 @@
+\subsection{Análisis}
+
+La etapa de análisis dió comienzo con la definición de los \textbf{objetivos principales} del incremento:
+
+\begin{itemize}
+    \item \textbf{Lógica musical:} con la implementación de todos aquellos elementos de teoría musical necesarios para la creación de diagramas de acordes \textit{i.e. notas, acordes, instrumentos y diagramas de acordes}.
+    \item \textbf{Algoritmo de cálculo de diagramas de acordes:} dado un instrumento y un acorde, el algoritmo debe generar un diagrama del acorde que sea facilmente practicable y musicalmente correcto. 
+\end{itemize}
+
+Seguidamente, se seleccionaron los \textbf{requisitos funcionales} \tabref{tab:requisitosfuncionalesincremento2} relacionados con los objetivos anteriores.
+
+\begin{table}[H]
+    \centering
+    \scriptsize
+    \begin{tabular}{l p{0.58\textwidth} p{0.20\textwidth} l}
+        \textbf{ID} & \textbf{Requisito Funcional} & \textbf{Funcionalidad} & \textbf{Prioridad} \\ \hline
+
+        RF26 & El sistema debe aceptar distintos instrumentos de cuerda pulsada. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF27 & El sistema debe aceptar como entrada uno o varios acordes. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF28 & El sistema debe devolver un único diagrama de acorde por cada acorde solicitado. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF29 & El sistema debe garantizar que cada diagrama generado sea musicalmente correcto respecto al acorde solicitado. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF30 & El sistema debe garantizar que cada diagrama generado sea físicamente ejecutable. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF31 & El sistema debe calcular cada diagrama optimizando simultáneamente la correctitud musical y la facilidad de ejecución. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF32 & El sistema debe aceptar acordes en notación latina o anglosajona. & Cálculo de diagramas de acorde & Media \\ \hline
+
+    \end{tabular}
+    \caption{Requisitos funcionales del algoritmo de cálculo de diagramas de acordes}
+    \label{tab:requisitosfuncionalesincremento2}
+\end{table}
+
+Finalmente, se realizó una investigación sobre los \textbf{fundamentos de teoría musical} \capref{c:fundamentos_musicales} y \textbf{instrumentos de cuerda pulsada} \capref{c:fundamentos_cuerda}, con el fín de conocer los detalles escenciales para la construcción y representación de diagramas de acordes.

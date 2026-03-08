@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.29)  15 DEC 2025 01:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.29)  7 MAR 2026 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -646,7 +646,7 @@ Package: glossary-tree 2025/03/03 v4.56 (NLCT)
 \glo@main@file=\write4
 \openout4 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 28.
+Package glossaries Info: Writing glossary file main.glo on input line 43.
  (./glosario.tex) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -697,43 +697,33 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 73.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 90.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
-
-
-LaTeX Warning: Label `tab:requisitosnofuncionales' multiply defined.
-
-
-LaTeX Warning: Label `fig:passrec' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:passrec' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count370
@@ -787,13 +777,13 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 73.
+Package hyperref Info: Link coloring OFF on input line 90.
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Info: Redefining \. on input line 73.
-LaTeX Info: Redefining \% on input line 73.
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
@@ -809,7 +799,7 @@ Couldn't patch \ttl@straight@ii
 Couldn't patch \ttl@straight@ii
 \c@lstlisting=\count376
 (./Portada.tex
-<Ilustraciones/NuevoLogoEII.png, id=180, 903.375pt x 252.19218pt>
+<Ilustraciones/NuevoLogoEII.png, id=225, 903.375pt x 252.19218pt>
 File: Ilustraciones/NuevoLogoEII.png Graphic file (type png)
 <use Ilustraciones/NuevoLogoEII.png>
 Package pdftex.def Info: Ilustraciones/NuevoLogoEII.png  used on input line 8.
@@ -934,8 +924,8 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
 [5] (./main.loa)
 \tf@loa=\write7
 \openout7 = `main.loa'.
@@ -947,30 +937,34 @@ LaTeX Info: Redefining \% on input line 90.
 ] (./main.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+
+
+[7
+
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}])
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
 
 
-[7
-
-{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] (./main.lot
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
+[8] (./main.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+
+
+[9
+
+])
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
 
 
-[8
-
-]
-
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
-[9] (./secciones/introduccion/introduccion.tex
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+[10] (./secciones/introduccion/introduccion.tex
 Cap\'{\i }tulo 1.
 Package newfloat Info: Setting Plan B file extension to `lof'... on input line 1.
 (./secciones/introduccion/motivacion.tex) (./secciones/introduccion/objetivos.tex
@@ -983,57 +977,89 @@ l.10     \item \textbf
                       {Existencia de una biblioteca de canciones}, permitien... [1
 
 
-]) (./secciones/introduccion/aportaciones.tex
+]) (./secciones/introduccion/aportaciones.tex) (./secciones/introduccion/competencias.tex
 
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 
-      [2]) (./secciones/introduccion/competencias.tex
+l.3 
+     [2]
 
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
 [3]
 
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
 [4]) (./secciones/introduccion/alineamiento.tex
 
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
 [5]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 25.
 ) (./secciones/introduccion/estructura.tex
 
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
-[6])) (./secciones/metodologia/metodologia.tex
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+[6])) (./secciones/normativa/normativa.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 [7]
 Cap\'{\i }tulo 2.
+(./secciones/normativa/licencias.tex
+
+[8
+
+]) (./secciones/normativa/legislación.tex
+
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+[9]
+<Ilustraciones/normativa/registro_art30.jpeg, id=570, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/normativa/registro_art30.jpeg Graphic file (type jpg)
+<use Ilustraciones/normativa/registro_art30.jpeg>
+Package pdftex.def Info: Ilustraciones/normativa/registro_art30.jpeg  used on input line 23.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+))
+
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+[10 <./Ilustraciones/normativa/registro_art30.jpeg>] (./secciones/tecnologias/tecnologias.tex
+
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+[11]
+Cap\'{\i }tulo 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 11.
+) (./secciones/metodologia/metodologia.tex
+
+[12
+
+]
+Cap\'{\i }tulo 4.
 (./secciones/metodologia/metodologia_explicacion.tex
-<Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg, id=451, 504.38437pt x 136.25906pt>
+<Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg, id=616, 504.38437pt x 136.25906pt>
 File: Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg Graphic file (type jpg)
 <use Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg>
 Package pdftex.def Info: Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg  used on input line 17.
 (pdftex.def)             Requested size: 377.62642pt x 102.01523pt.
 
 
-[8
+[13
 
 ]
-<Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg, id=460, 499.11469pt x 134.75343pt>
+<Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg, id=625, 499.11469pt x 134.75343pt>
 File: Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg Graphic file (type jpg)
 <use Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg>
 Package pdftex.def Info: Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg  used on input line 25.
 (pdftex.def)             Requested size: 377.62642pt x 101.9572pt.
-<Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg, id=464, 1859.94875pt x 902.37125pt>
+<Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg, id=629, 1859.94875pt x 902.37125pt>
 File: Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg Graphic file (type jpg)
 <use Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg>
 Package pdftex.def Info: Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg  used on input line 34.
@@ -1042,8 +1068,8 @@ Package pdftex.def Info: Ilustraciones/metodologia/iterative-incremental-mona-li
 
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
-[9 <./Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg> <./Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg>]
-<Ilustraciones/metodologia/flujo_it_inc.jpg, id=472, 534.0753pt x 293.898pt>
+[14 <./Ilustraciones/metodologia/patton-incrementing-mona-lisa.jpg> <./Ilustraciones/metodologia/patton-iterating-mona-lisa.jpg>]
+<Ilustraciones/metodologia/flujo_it_inc.jpg, id=637, 534.0753pt x 293.898pt>
 File: Ilustraciones/metodologia/flujo_it_inc.jpg Graphic file (type jpg)
 <use Ilustraciones/metodologia/flujo_it_inc.jpg>
 Package pdftex.def Info: Ilustraciones/metodologia/flujo_it_inc.jpg  used on input line 42.
@@ -1052,104 +1078,108 @@ Package pdftex.def Info: Ilustraciones/metodologia/flujo_it_inc.jpg  used on inp
 
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-[10 <./Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg> <./Ilustraciones/metodologia/flujo_it_inc.jpg>]
-<Ilustraciones/metodologia/flujo_met.jpg, id=481, 677.8926pt x 300.6432pt>
+[15 <./Ilustraciones/metodologia/iterative-incremental-mona-lisa.jpeg> <./Ilustraciones/metodologia/flujo_it_inc.jpg>]
+<Ilustraciones/metodologia/flujo_met.jpg, id=647, 677.8926pt x 300.6432pt>
 File: Ilustraciones/metodologia/flujo_met.jpg Graphic file (type jpg)
 <use Ilustraciones/metodologia/flujo_met.jpg>
-Package pdftex.def Info: Ilustraciones/metodologia/flujo_met.jpg  used on input line 57.
+Package pdftex.def Info: Ilustraciones/metodologia/flujo_met.jpg  used on input line 55.
 (pdftex.def)             Requested size: 472.03123pt x 209.34781pt.
 ))
 
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
-[11] (./secciones/estado/estado.tex
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+[16] (./secciones/estado/estado.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[12 <./Ilustraciones/metodologia/flujo_met.jpg>]
-Cap\'{\i }tulo 3.
+[17 <./Ilustraciones/metodologia/flujo_met.jpg>]
+Cap\'{\i }tulo 5.
 (./secciones/estado/fundamentos/fundamentos.tex (./secciones/estado/fundamentos/conceptos.tex
-<Ilustraciones/estado/pentagrama.jpg, id=497, 479.1501pt x 142.3719pt>
+<Ilustraciones/estado/pentagrama.jpg, id=662, 479.1501pt x 142.3719pt>
 File: Ilustraciones/estado/pentagrama.jpg Graphic file (type jpg)
 <use Ilustraciones/estado/pentagrama.jpg>
-Package pdftex.def Info: Ilustraciones/estado/pentagrama.jpg  used on input line 16.
+Package pdftex.def Info: Ilustraciones/estado/pentagrama.jpg  used on input line 17.
 (pdftex.def)             Requested size: 226.57297pt x 67.3232pt.
 
 
-[13
+[18
 
  <./Ilustraciones/estado/pentagrama.jpg>]
-<Ilustraciones/estado/piano_cromatica.jpg, id=511, 329.0694pt x 305.943pt>
+<Ilustraciones/estado/piano_cromatica.jpg, id=676, 329.0694pt x 305.943pt>
 File: Ilustraciones/estado/piano_cromatica.jpg Graphic file (type jpg)
 <use Ilustraciones/estado/piano_cromatica.jpg>
-Package pdftex.def Info: Ilustraciones/estado/piano_cromatica.jpg  used on input line 50.
+Package pdftex.def Info: Ilustraciones/estado/piano_cromatica.jpg  used on input line 51.
 (pdftex.def)             Requested size: 236.01561pt x 219.42914pt.
 
 
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
-[14 <./Ilustraciones/estado/piano_cromatica.jpg>]
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+[19 <./Ilustraciones/estado/piano_cromatica.jpg>]
 
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
-[15{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<Ilustraciones/estado/piano_doM.jpg, id=543, 319.9152pt x 241.3818pt>
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+[20{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<Ilustraciones/estado/piano_doM.jpg, id=705, 319.9152pt x 241.3818pt>
 File: Ilustraciones/estado/piano_doM.jpg Graphic file (type jpg)
 <use Ilustraciones/estado/piano_doM.jpg>
-Package pdftex.def Info: Ilustraciones/estado/piano_doM.jpg  used on input line 163.
+Package pdftex.def Info: Ilustraciones/estado/piano_doM.jpg  used on input line 165.
 (pdftex.def)             Requested size: 236.01561pt x 178.08199pt.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 179.
+LaTeX Warning: Command \textendash invalid in math mode on input line 181.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 179.
+LaTeX Warning: Command \textendash invalid in math mode on input line 181.
 
 
 
-LaTeX Info: Redefining \. on input line 193.
-LaTeX Info: Redefining \% on input line 193.
-[16 <./Ilustraciones/estado/piano_doM.jpg>]) (./secciones/estado/fundamentos/cuerda.tex
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
+[21 <./Ilustraciones/estado/piano_doM.jpg>]
 
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-[17]
-<Ilustraciones/estado/timple_partes.jpg, id=571, 502.9992pt x 476.2593pt>
+LaTeX Info: Redefining \. on input line 242.
+LaTeX Info: Redefining \% on input line 242.
+[22]) (./secciones/estado/fundamentos/cuerda.tex
+<Ilustraciones/estado/timple_partes.jpg, id=734, 502.9992pt x 476.2593pt>
 File: Ilustraciones/estado/timple_partes.jpg Graphic file (type jpg)
 <use Ilustraciones/estado/timple_partes.jpg>
-Package pdftex.def Info: Ilustraciones/estado/timple_partes.jpg  used on input line 15.
+Package pdftex.def Info: Ilustraciones/estado/timple_partes.jpg  used on input line 16.
 (pdftex.def)             Requested size: 264.33633pt x 250.29422pt.
-<Ilustraciones/estado/timple_notas_piano.jpg, id=572, 344.9688pt x 474.573pt>
+<Ilustraciones/estado/timple_notas_piano.jpg, id=735, 344.9688pt x 474.573pt>
 File: Ilustraciones/estado/timple_notas_piano.jpg Graphic file (type jpg)
 <use Ilustraciones/estado/timple_notas_piano.jpg>
-Package pdftex.def Info: Ilustraciones/estado/timple_notas_piano.jpg  used on input line 22.
+Package pdftex.def Info: Ilustraciones/estado/timple_notas_piano.jpg  used on input line 23.
 (pdftex.def)             Requested size: 188.8096pt x 259.75595pt.
 
 
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-[18 <./Ilustraciones/estado/timple_partes.jpg> <./Ilustraciones/estado/timple_notas_piano.jpg>]
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 60.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+[23]
+
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+[24 <./Ilustraciones/estado/timple_partes.jpg> <./Ilustraciones/estado/timple_notas_piano.jpg>]
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 63.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 81.
+LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 84.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 81.
-<Ilustraciones/estado/diagrama_acordes.jpg, id=595, 228.6141pt x 152.0079pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 84.
+<Ilustraciones/estado/diagrama_acordes.jpg, id=765, 228.6141pt x 152.0079pt>
 File: Ilustraciones/estado/diagrama_acordes.jpg Graphic file (type jpg)
 <use Ilustraciones/estado/diagrama_acordes.jpg>
-Package pdftex.def Info: Ilustraciones/estado/diagrama_acordes.jpg  used on input line 94.
+Package pdftex.def Info: Ilustraciones/estado/diagrama_acordes.jpg  used on input line 97.
 (pdftex.def)             Requested size: 228.61354pt x 152.00752pt.
+) (./secciones/estado/fundamentos/timple.tex
 
-
-LaTeX Info: Redefining \. on input line 97.
-LaTeX Info: Redefining \% on input line 97.
-[19{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}]) (./secciones/estado/fundamentos/timple.tex)) (./secciones/estado/actual.tex
-<Ilustraciones/estado/cifra_isadecandidito.jpeg, id=613, 3838.34pt x 2491.3075pt>
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+[25{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc} <./Ilustraciones/estado/diagrama_acordes.jpg>])) (./secciones/estado/actual.tex
+<Ilustraciones/estado/cifra_isadecandidito.jpeg, id=782, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/cifra_isadecandidito.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/cifra_isadecandidito.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/cifra_isadecandidito.jpeg  used on input line 6.
@@ -1158,17 +1188,17 @@ Package pdftex.def Info: Ilustraciones/estado/cifra_isadecandidito.jpeg  used on
 
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-[20 <./Ilustraciones/estado/diagrama_acordes.jpg>]
+[26]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 17.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<Ilustraciones/estado/raquel_youtube_video.jpeg, id=627, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/raquel_youtube_video.jpeg, id=795, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/raquel_youtube_video.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/raquel_youtube_video.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/raquel_youtube_video.jpeg  used on input line 29.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg, id=630, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg, id=798, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg  used on input line 36.
@@ -1177,27 +1207,27 @@ Package pdftex.def Info: Ilustraciones/estado/pedro_izquierdo_pagina_partituras.
 
 LaTeX Info: Redefining \. on input line 42.
 LaTeX Info: Redefining \% on input line 42.
-[21{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Ilustraciones/estado/cifra_isadecandidito.jpeg>]) (./secciones/estado/alternativas/alternativas.tex (./secciones/estado/alternativas/ukuleletabs.tex
+[27{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Ilustraciones/estado/cifra_isadecandidito.jpeg>]) (./secciones/estado/alternativas/alternativas.tex (./secciones/estado/alternativas/ukuleletabs.tex
 
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
-[22 <./Ilustraciones/estado/raquel_youtube_video.jpeg> <./Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg>]
-<Ilustraciones/estado/ukuleletabs.jpeg, id=650, 3838.34pt x 2491.3075pt>
+[28 <./Ilustraciones/estado/raquel_youtube_video.jpeg> <./Ilustraciones/estado/pedro_izquierdo_pagina_partituras.jpeg>]
+<Ilustraciones/estado/ukuleletabs.jpeg, id=818, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukuleletabs.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukuleletabs.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukuleletabs.jpeg  used on input line 29.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg, id=653, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg, id=821, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg  used on input line 34.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ukuleletabs_lessons.jpeg, id=656, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ukuleletabs_lessons.jpeg, id=824, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukuleletabs_lessons.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukuleletabs_lessons.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukuleletabs_lessons.jpeg  used on input line 42.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ukuleletabs_escala.jpeg, id=659, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ukuleletabs_escala.jpeg, id=827, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukuleletabs_escala.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukuleletabs_escala.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukuleletabs_escala.jpeg  used on input line 48.
@@ -1206,27 +1236,27 @@ Package pdftex.def Info: Ilustraciones/estado/ukuleletabs_escala.jpeg  used on i
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[23 <./Ilustraciones/estado/ukuleletabs.jpeg> <./Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg> <./Ilustraciones/estado/ukuleletabs_lessons.jpeg> <./Ilustraciones/estado/ukuleletabs_escala.jpeg>]
+[29 <./Ilustraciones/estado/ukuleletabs.jpeg> <./Ilustraciones/estado/ukuleletabs_somewhereovertherainbow.jpeg> <./Ilustraciones/estado/ukuleletabs_lessons.jpeg> <./Ilustraciones/estado/ukuleletabs_escala.jpeg>]
 
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
-[24]
-<Ilustraciones/estado/ukutabs.jpeg, id=681, 3838.34pt x 2491.3075pt>
+[30]
+<Ilustraciones/estado/ukutabs.jpeg, id=850, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukutabs.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukutabs.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukutabs.jpeg  used on input line 27.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg, id=684, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg, id=853, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg  used on input line 34.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ukutabs_guías.jpeg, id=687, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ukutabs_guías.jpeg, id=856, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukutabs_guías.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukutabs_guías.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukutabs_guías.jpeg  used on input line 44.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ukutabs_acordes.jpeg, id=690, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ukutabs_acordes.jpeg, id=859, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ukutabs_acordes.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ukutabs_acordes.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ukutabs_acordes.jpeg  used on input line 51.
@@ -1235,18 +1265,18 @@ Package pdftex.def Info: Ilustraciones/estado/ukutabs_acordes.jpeg  used on inpu
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[25 <./Ilustraciones/estado/ukutabs.jpeg> <./Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg> <./Ilustraciones/estado/ukutabs_guías.jpeg> <./Ilustraciones/estado/ukutabs_acordes.jpeg>]
-<Ilustraciones/estado/ultimateguitar.jpeg, id=708, 3838.34pt x 2491.3075pt>
+[31 <./Ilustraciones/estado/ukutabs.jpeg> <./Ilustraciones/estado/ukutabs_somewhereovertherainbow.jpeg> <./Ilustraciones/estado/ukutabs_guías.jpeg> <./Ilustraciones/estado/ukutabs_acordes.jpeg>]
+<Ilustraciones/estado/ultimateguitar.jpeg, id=876, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ultimateguitar.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ultimateguitar.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ultimateguitar.jpeg  used on input line 18.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ultimateguitar_courses.jpeg, id=711, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ultimateguitar_courses.jpeg, id=879, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ultimateguitar_courses.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ultimateguitar_courses.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ultimateguitar_courses.jpeg  used on input line 24.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg, id=714, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg, id=882, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg  used on input line 33.
@@ -1255,27 +1285,27 @@ Package pdftex.def Info: Ilustraciones/estado/ultimateguitar_somewhereovertherai
 
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
-[26]) (./secciones/estado/alternativas/lacuerda.tex
+[32]) (./secciones/estado/alternativas/lacuerda.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[27 <./Ilustraciones/estado/ultimateguitar.jpeg> <./Ilustraciones/estado/ultimateguitar_courses.jpeg> <./Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg>]
-<Ilustraciones/estado/lacuerdanet.jpeg, id=735, 3838.34pt x 2491.3075pt>
+[33 <./Ilustraciones/estado/ultimateguitar.jpeg> <./Ilustraciones/estado/ultimateguitar_courses.jpeg> <./Ilustraciones/estado/ultimateguitar_somewhereovertherainbow.jpeg>]
+<Ilustraciones/estado/lacuerdanet.jpeg, id=903, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/lacuerdanet.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/lacuerdanet.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/lacuerdanet.jpeg  used on input line 25.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg, id=738, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg, id=906, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg  used on input line 31.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/lacuerdanet_cursos.jpeg, id=741, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/lacuerdanet_cursos.jpeg, id=909, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/lacuerdanet_cursos.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/lacuerdanet_cursos.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/lacuerdanet_cursos.jpeg  used on input line 40.
 (pdftex.def)             Requested size: 226.57297pt x 147.03908pt.
-<Ilustraciones/estado/lacuerdanet_acordes.jpeg, id=744, 3838.34pt x 2491.3075pt>
+<Ilustraciones/estado/lacuerdanet_acordes.jpeg, id=912, 3838.34pt x 2491.3075pt>
 File: Ilustraciones/estado/lacuerdanet_acordes.jpeg Graphic file (type jpg)
 <use Ilustraciones/estado/lacuerdanet_acordes.jpeg>
 Package pdftex.def Info: Ilustraciones/estado/lacuerdanet_acordes.jpeg  used on input line 46.
@@ -1284,201 +1314,453 @@ Package pdftex.def Info: Ilustraciones/estado/lacuerdanet_acordes.jpeg  used on 
 
 LaTeX Info: Redefining \. on input line 54.
 LaTeX Info: Redefining \% on input line 54.
-[28])) (./secciones/estado/comparativa.tex
+[34])) (./secciones/estado/comparativa.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[29 <./Ilustraciones/estado/lacuerdanet.jpeg> <./Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg> <./Ilustraciones/estado/lacuerdanet_cursos.jpeg> <./Ilustraciones/estado/lacuerdanet_acordes.jpeg>]
+[35 <./Ilustraciones/estado/lacuerdanet.jpeg> <./Ilustraciones/estado/lacuerdanet_somewhereovertherainbow.jpeg> <./Ilustraciones/estado/lacuerdanet_cursos.jpeg> <./Ilustraciones/estado/lacuerdanet_acordes.jpeg>]
 
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
-[30]) (./secciones/estado/alcance.tex
+[36]) (./secciones/estado/alcance.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[31]
-Overfull \hbox (6.23035pt too wide) in paragraph at lines 57--84
+[37]
+Overfull \hbox (6.23035pt too wide) in paragraph at lines 58--116
  [][] 
  []
 
 
 
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
-[32]
-Overfull \hbox (3.96579pt too wide) in paragraph at lines 91--98
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+[38]
+Overfull \vbox (7.24255pt too high) has occurred while \output is active []
+
+
+
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+[39]
+Overfull \hbox (3.96579pt too wide) in paragraph at lines 123--130
  [][] 
  []
 
-)) (./secciones/normativa/normativa.tex
+)) (./secciones/desarrollo/desarrollo.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[33]
-Cap\'{\i }tulo 4.
-) (./secciones/tecnologias/tecnologias.tex
-
-[34
-
-]
-Cap\'{\i }tulo 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 10.
-) (./secciones/desarrollo/desarrollo.tex
-
-[35
-
-]
+[40]
 Cap\'{\i }tulo 6.
-(./secciones/desarrollo/incremento1.tex
-Overfull \hbox (0.98108pt too wide) in paragraph at lines 12--19
+(./secciones/desarrollo/incremento1/incremento1.tex (./secciones/desarrollo/incremento1/analisis.tex
+Overfull \hbox (0.98108pt too wide) in paragraph at lines 15--23
  [][] 
  []
 
 
 
-[36
+[41
 
-]
-<Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg, id=814, 513.3579pt x 251.7405pt>
+]) (./secciones/desarrollo/incremento1/diseño.tex
+
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+[42]
+<Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg, id=972, 513.3579pt x 251.7405pt>
 File: Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg  used on input line 40.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg  used on input line 24.
 (pdftex.def)             Requested size: 377.62642pt x 185.1826pt.
-<Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg, id=817, 401.5pt x 247.92625pt>
+<Ilustraciones/desarrollo/incremento1/diagrama_flujo_i1.jpg, id=975, 408.8073pt x 1205.4636pt>
+File: Ilustraciones/desarrollo/incremento1/diagrama_flujo_i1.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/diagrama_flujo_i1.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diagrama_flujo_i1.jpg  used on input line 44.
+(pdftex.def)             Requested size: 188.8096pt x 556.74565pt.
+<Ilustraciones/desarrollo/incremento1/diagrama_flujo2_i1.jpg, id=976, 294.8616pt x 1205.4636pt>
+File: Ilustraciones/desarrollo/incremento1/diagrama_flujo2_i1.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/diagrama_flujo2_i1.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diagrama_flujo2_i1.jpg  used on input line 51.
+(pdftex.def)             Requested size: 141.61081pt x 578.92865pt.
+
+
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+[43 <./Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg>]
+
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+[44 <./Ilustraciones/desarrollo/incremento1/diagrama_flujo_i1.jpg> <./Ilustraciones/desarrollo/incremento1/diagrama_flujo2_i1.jpg>]
+<Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg, id=989, 401.5pt x 247.92625pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg  used on input line 51.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg  used on input line 70.
 (pdftex.def)             Requested size: 226.57297pt x 139.91214pt.
-<Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg, id=818, 526.96875pt x 380.42125pt>
+<Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg, id=990, 526.96875pt x 380.42125pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg  used on input line 57.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg  used on input line 76.
 (pdftex.def)             Requested size: 226.57297pt x 163.56633pt.
-
-
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
-[37 <./Ilustraciones/desarrollo/incremento1/diagrama_datos_i1.jpg>]
-<Ilustraciones/desarrollo/incremento1/diseño/logo_2.png, id=825, 251.7405pt x 125.9907pt>
+<Ilustraciones/desarrollo/incremento1/diseño/logo_2.png, id=992, 251.7405pt x 125.9907pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/logo_2.png Graphic file (type png)
 <use Ilustraciones/desarrollo/incremento1/diseño/logo_2.png>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/logo_2.png  used on input line 66.
-(pdftex.def)             Requested size: 236.01561pt x 118.12175pt.
-<Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg, id=829, 429.605pt x 202.7575pt>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/logo_2.png  used on input line 85.
+(pdftex.def)             Requested size: 188.8096pt x 94.49663pt.
+<Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg, id=997, 429.605pt x 202.7575pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg  used on input line 76.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg  used on input line 97.
 (pdftex.def)             Requested size: 226.57297pt x 106.93501pt.
-<Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg, id=830, 429.605pt x 202.7575pt>
+<Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg, id=998, 429.605pt x 202.7575pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg  used on input line 82.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg  used on input line 103.
 (pdftex.def)             Requested size: 226.57297pt x 106.93501pt.
-<Ilustraciones/desarrollo/incremento1/diseño/fields.jpg, id=831, 961.5925pt x 301.125pt>
+<Ilustraciones/desarrollo/incremento1/diseño/fields.jpg, id=999, 961.5925pt x 301.125pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/fields.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/fields.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/fields.jpg  used on input line 88.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/fields.jpg  used on input line 109.
 (pdftex.def)             Requested size: 472.03123pt x 147.81903pt.
+<Ilustraciones/desarrollo/incremento1/diseño/dialog.jpg, id=1000, 413.545pt x 431.6125pt>
+File: Ilustraciones/desarrollo/incremento1/diseño/dialog.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/diseño/dialog.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/dialog.jpg  used on input line 115.
+(pdftex.def)             Requested size: 160.48888pt x 167.50496pt.
+<Ilustraciones/desarrollo/incremento1/diseño/dropdown_info.jpg, id=1001, 398.48875pt x 220.825pt>
+File: Ilustraciones/desarrollo/incremento1/diseño/dropdown_info.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/diseño/dropdown_info.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/dropdown_info.jpg  used on input line 121.
+(pdftex.def)             Requested size: 292.65706pt x 162.1848pt.
 
 
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
-[38 <./Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/logo_2.png>]
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
+[45 <./Ilustraciones/desarrollo/incremento1/diseño/color_palette.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/color_scheme.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/logo_2.png>]
+<Ilustraciones/desarrollo/incremento1/diseño/home_unregistered.jpg, id=1013, 394.47375pt x 1097.09875pt>
+File: Ilustraciones/desarrollo/incremento1/diseño/home_unregistered.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/diseño/home_unregistered.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/home_unregistered.jpg  used on input line 134.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
 
-LaTeX Warning: Reference `fig:ui_register' on page 39 undefined on input line 94.
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\OT1/lmr/m/n/10.95 (a) |Di-se~no de
+ []
 
-<Ilustraciones/desarrollo/incremento1/diseño/login.jpg, id=840, 394.47375pt x 853.1875pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\OT1/lmr/m/n/10.95 p^^Sagi-na prin-ci-pal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\OT1/lmr/m/n/10.95 de usua-rios no
+ []
+
+<Ilustraciones/desarrollo/incremento1/diseño/login.jpg, id=1014, 394.47375pt x 1097.09875pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/login.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/login.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/login.jpg  used on input line 100.
-(pdftex.def)             Requested size: 113.28908pt x 245.02261pt.
-<Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg, id=841, 394.47375pt x 853.1875pt>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/login.jpg  used on input line 140.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
+<Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg, id=1015, 394.47375pt x 1097.09875pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg  used on input line 106.
-(pdftex.def)             Requested size: 113.28908pt x 245.02261pt.
-<Ilustraciones/desarrollo/incremento1/diseño/register.jpg, id=842, 394.47375pt x 853.1875pt>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg  used on input line 146.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
+<Ilustraciones/desarrollo/incremento1/diseño/register.jpg, id=1016, 394.47375pt x 1097.09875pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/register.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/register.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/register.jpg  used on input line 112.
-(pdftex.def)             Requested size: 113.28908pt x 245.02261pt.
-<Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg, id=843, 394.47375pt x 853.1875pt>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/register.jpg  used on input line 152.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
+<Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg, id=1017, 394.47375pt x 1097.09875pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg  used on input line 118.
-(pdftex.def)             Requested size: 113.28908pt x 245.02261pt.
-<Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg, id=844, 394.47375pt x 853.1875pt>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg  used on input line 158.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
+<Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg, id=1018, 394.47375pt x 1097.09875pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg  used on input line 124.
-(pdftex.def)             Requested size: 113.28908pt x 245.02261pt.
-<Ilustraciones/desarrollo/incremento1/diseño/profile.jpg, id=845, 394.47375pt x 853.1875pt>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg  used on input line 164.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
+<Ilustraciones/desarrollo/incremento1/diseño/profile.jpg, id=1019, 394.47375pt x 1097.09875pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/profile.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/profile.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/profile.jpg  used on input line 130.
-(pdftex.def)             Requested size: 113.28908pt x 245.02261pt.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/profile.jpg  used on input line 170.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
+<Ilustraciones/desarrollo/incremento1/diseño/settings.jpg, id=1020, 394.47375pt x 1097.09875pt>
+File: Ilustraciones/desarrollo/incremento1/diseño/settings.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/diseño/settings.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/settings.jpg  used on input line 176.
+(pdftex.def)             Requested size: 94.4048pt x 262.55576pt.
 
 
-LaTeX Info: Redefining \. on input line 136.
-LaTeX Info: Redefining \% on input line 136.
-[39 <./Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/fields.jpg>]
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
+[46 <./Ilustraciones/desarrollo/incremento1/diseño/buttons.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/button_color_scheme.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/fields.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/dialog.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/dropdown_info.jpg>]
+Overfull \vbox (30.45512pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 138.
-LaTeX Info: Redefining \% on input line 138.
-[40 <./Ilustraciones/desarrollo/incremento1/diseño/login.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/register.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/profile.jpg>]
-<Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg, id=855, 1445.4pt x 820.06375pt>
+
+
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
+[47 <./Ilustraciones/desarrollo/incremento1/diseño/home_unregistered.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/login.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/password_recovery.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/register.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/register_filled.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/register_error.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/profile.jpg> <./Ilustraciones/desarrollo/incremento1/diseño/settings.jpg>]
+<Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg, id=1030, 1445.4pt x 820.06375pt>
 File: Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg Graphic file (type jpg)
 <use Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg>
-Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg  used on input line 141.
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg  used on input line 187.
 (pdftex.def)             Requested size: 377.62642pt x 214.25014pt.
-)) (./secciones/resultados/resultados.tex
+) (./secciones/desarrollo/incremento1/desarrollo.tex
+<Ilustraciones/desarrollo/incremento1/desarrollo/supabase_profiles_table.jpeg, id=1036, 2039.62pt x 1165.35374pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_profiles_table.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/supabase_profiles_table.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_profiles_table.jpeg  used on input line 16.
+(pdftex.def)             Requested size: 226.57297pt x 129.45181pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_function.jpeg, id=1037, 2039.62pt x 1165.35374pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_function.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_function.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_function.jpeg  used on input line 21.
+(pdftex.def)             Requested size: 226.57297pt x 129.45181pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_trigger.jpeg, id=1038, 2039.62pt x 1165.35374pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_trigger.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_trigger.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_trigger.jpeg  used on input line 28.
+(pdftex.def)             Requested size: 226.57297pt x 129.45181pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/supabase_policies.jpeg, id=1039, 2039.62pt x 1165.35374pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_policies.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/supabase_policies.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_policies.jpeg  used on input line 33.
+(pdftex.def)             Requested size: 226.57297pt x 129.45181pt.
+
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[48 <./Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg>]
+<Ilustraciones/desarrollo/incremento1/desarrollo/supabase_template.jpeg, id=1046, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_template.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/supabase_template.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/supabase_template.jpeg  used on input line 54.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+
+
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+[49 <./Ilustraciones/desarrollo/incremento1/desarrollo/supabase_profiles_table.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_function.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/supabase_username_trigger.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/supabase_policies.jpeg>]
+<Ilustraciones/desarrollo/incremento1/desarrollo/login_1.jpeg, id=1053, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/login_1.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/login_1.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/login_1.jpeg  used on input line 63.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+
+
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+[50 <./Ilustraciones/desarrollo/incremento1/desarrollo/supabase_template.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/login_1.jpeg>]
+<Ilustraciones/desarrollo/incremento1/desarrollo/dir_ord.jpg, id=1059, 1025.5113pt x 251.4996pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/dir_ord.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/dir_ord.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/dir_ord.jpg  used on input line 87.
+(pdftex.def)             Requested size: 472.03123pt x 115.76028pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/manual_it1.jpeg, id=1061, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/manual_it1.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/manual_it1.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/manual_it1.jpeg  used on input line 102.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+
+
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+[51 <./Ilustraciones/desarrollo/incremento1/desarrollo/dir_ord.jpg>]
+<Ilustraciones/desarrollo/incremento1/desarrollo/dialog_1.jpeg, id=1069, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/dialog_1.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/dialog_1.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/dialog_1.jpeg  used on input line 112.
+(pdftex.def)             Requested size: 146.32852pt x 94.95956pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/dialog_2.jpeg, id=1070, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/dialog_2.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/dialog_2.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/dialog_2.jpeg  used on input line 117.
+(pdftex.def)             Requested size: 146.32852pt x 94.95956pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/dialog_3.jpeg, id=1071, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/dialog_3.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/dialog_3.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/dialog_3.jpeg  used on input line 122.
+(pdftex.def)             Requested size: 146.32852pt x 94.95956pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/tac_it1.jpeg, id=1072, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/tac_it1.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/tac_it1.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/tac_it1.jpeg  used on input line 134.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+
+
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
+[52 <./Ilustraciones/desarrollo/incremento1/desarrollo/manual_it1.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/dialog_1.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/dialog_2.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/dialog_3.jpeg>]
+<Ilustraciones/desarrollo/incremento1/desarrollo/tests_i1.jpeg, id=1078, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/tests_i1.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/tests_i1.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/tests_i1.jpeg  used on input line 144.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+<Ilustraciones/desarrollo/incremento1/desarrollo/lighthouse_it1.jpeg, id=1080, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento1/desarrollo/lighthouse_it1.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento1/desarrollo/lighthouse_it1.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento1/desarrollo/lighthouse_it1.jpeg  used on input line 152.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+
+
+LaTeX Info: Redefining \. on input line 154.
+LaTeX Info: Redefining \% on input line 154.
+[53 <./Ilustraciones/desarrollo/incremento1/desarrollo/tac_it1.jpeg> <./Ilustraciones/desarrollo/incremento1/desarrollo/tests_i1.jpeg>])) (./secciones/desarrollo/incremento2/incremento2.tex (./secciones/desarrollo/incremento2/analisis.tex
+Overfull \hbox (5.23108pt too wide) in paragraph at lines 15--33
+ [][] 
+ []
+
+
+
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+[54 <./Ilustraciones/desarrollo/incremento1/desarrollo/lighthouse_it1.jpeg>]) (./secciones/desarrollo/incremento2/diseño.tex
+
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+[55]
+<Ilustraciones/desarrollo/incremento2/diseño/builddiagram_it2_gmayor.jpg, id=1098, 488.5452pt x 443.4969pt>
+File: Ilustraciones/desarrollo/incremento2/diseño/builddiagram_it2_gmayor.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/diseño/builddiagram_it2_gmayor.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/diseño/builddiagram_it2_gmayor.jpg  used on input line 62.
+(pdftex.def)             Requested size: 377.62642pt x 342.81328pt.
+
+
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+[56{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
+
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+[57 <./Ilustraciones/desarrollo/incremento2/diseño/builddiagram_it2_gmayor.jpg>]
+<Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_cmayor.jpg, id=1120, 1367.1075pt x 728.9634pt>
+File: Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_cmayor.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_cmayor.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_cmayor.jpg  used on input line 112.
+(pdftex.def)             Requested size: 472.03123pt x 251.69286pt.
+<Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_bmayor.jpg, id=1121, 1367.1075pt x 728.9634pt>
+File: Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_bmayor.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_bmayor.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_bmayor.jpg  used on input line 119.
+(pdftex.def)             Requested size: 472.03123pt x 251.69286pt.
+) (./secciones/desarrollo/incremento2/desarrollo.tex
 
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[41 <./Ilustraciones/desarrollo/incremento1/diseño/login_big.jpg>]
+[58]
+
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+[59 <./Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_cmayor.jpg> <./Ilustraciones/desarrollo/incremento2/diseño/arbol_it2_bmayor.jpg>]
+
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+[60]
+<Ilustraciones/desarrollo/incremento2/desarrollo/modulos_it2.jpg, id=1139, 351.714pt x 283.5393pt>
+File: Ilustraciones/desarrollo/incremento2/desarrollo/modulos_it2.jpg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/desarrollo/modulos_it2.jpg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/desarrollo/modulos_it2.jpg  used on input line 40.
+(pdftex.def)             Requested size: 236.01561pt x 190.26886pt.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 68.
+
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+[61 <./Ilustraciones/desarrollo/incremento2/desarrollo/modulos_it2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
+[]\OT1/lmr/bx/n/8 pro-ce-du-re \OT1/lmr/m/sc/8 Cal-cu-lar-Po-si-cio-ne-sA-cor-de\OT1/lmr/m/n/8 ($\OML/lmm/m/it/8 indiceCuerda;$ $combinaciones;$ $resultado;$ $dedos;$ $cejilla;$ $notasAlAire;$
+ []
+
+
+LaTeX Warning: Reference `fig:tests_it2' on page 62 undefined on input line 153.
+
+<Ilustraciones/desarrollo/incremento2/desarrollo/test_it2.jpeg, id=1148, 1561.835pt x 1063.975pt>
+File: Ilustraciones/desarrollo/incremento2/desarrollo/test_it2.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/desarrollo/test_it2.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/desarrollo/test_it2.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 377.62642pt x 257.24246pt.
+
+
+LaTeX Info: Redefining \. on input line 160.
+LaTeX Info: Redefining \% on input line 160.
+[62]
+<Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg, id=1158, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg  used on input line 165.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+<Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg, id=1159, 3838.34pt x 2491.3075pt>
+File: Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg Graphic file (type jpg)
+<use Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg>
+Package pdftex.def Info: Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg  used on input line 171.
+(pdftex.def)             Requested size: 377.62642pt x 245.07782pt.
+))
+
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+[63 <./Ilustraciones/desarrollo/incremento2/desarrollo/test_it2.jpeg> <./Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg>]) (./secciones/resultados/resultados.tex
+
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+[64 <./Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg>]
 Cap\'{\i }tulo 7.
 ) (./secciones/manual/manual.tex
 
-[42
+[65
 
 ]
 Cap\'{\i }tulo 8.
 ) (./secciones/conclusiones/conclusiones.tex
 
-[43
+[66
 
 ]
 Cap\'{\i }tulo 9.
 ) (./main.bbl
 
-[44
+[67
 
 ]
 
-[45
+[68
 
 ]
-
-LaTeX Info: Redefining \. on input line 187.
-LaTeX Info: Redefining \% on input line 187.
-[46]
-Underfull \hbox (badness 5756) in paragraph at lines 236--237
-[]\OT1/lmr/m/n/12 ``Github terms of ser-vi-ce,'' []$https : / / docs . github . com / en / site-[]policy / github-[]terms /
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[]\OT1/lmr/m/n/12 Vitest. (2025) Vi-test li-cen-se. []$https : / / github . com / vitest-[]dev / vitest / blob / main /
  []
 
-)
 
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
-[47] (./main.gls
+
+LaTeX Info: Redefining \. on input line 154.
+LaTeX Info: Redefining \% on input line 154.
+[69]
+
+LaTeX Info: Redefining \. on input line 244.
+LaTeX Info: Redefining \% on input line 244.
+[70])
+
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+[71] (./main.gls
 Overfull \hbox (1.64679pt too wide) in paragraph at lines 13--13
 []\OT1/lmr/m/n/12 Notaci^^Son mu-si-cal pa-ra la re-pre-sen-ta-ci^^Son de acor-des so-bre tex-to acom-
  []
 
 
+Package glossaries Warning: Glossary entry `modalidad' has not been defined on input line 22.
 
-[48
+
+Package glossaries Warning: Glossary entry `modalidad' has not been defined on input line 22.
+
+
+Package glossaries Warning: Glossary entry `modalidad' has not been defined on input line 22.
+
+
+
+[72
 
 
 
@@ -1489,9 +1771,9 @@ Overfull \hbox (8.50507pt too wide) in paragraph at lines 45--47
 
 )
 
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
-[49] (./main.aux
+LaTeX Info: Redefining \. on input line 135.
+LaTeX Info: Redefining \% on input line 135.
+[73] (./main.aux
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
 )
@@ -1503,31 +1785,31 @@ L3 programming layer <2025-01-18>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AD8C72FF049346EEA882817FC434C9A8;6859.
+(rerunfilecheck)             Checksum: 98647F2E5FAEB3F2E74FE91FBDDF03AE;9483.
  ) 
 Here is how much of TeX's memory you used:
- 27801 strings out of 473190
- 516921 string characters out of 5715799
- 1216716 words of memory out of 5000000
- 50256 multiletter control sequences out of 15000+600000
- 637460 words of font info for 85 fonts, out of 8000000 for 9000
+ 28391 strings out of 473190
+ 538852 string characters out of 5715799
+ 1221283 words of memory out of 5000000
+ 50729 multiletter control sequences out of 15000+600000
+ 644434 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,13n,121p,2421b,818s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,13n,121p,2421b,840s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{page.iii} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{page.ii} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (61 pages, 18667160 bytes).
+
+pdfTeX warning (dest): name{glo:cualidad} has been referenced but does not exist, replaced by a fixed one
+
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on main.pdf (86 pages, 29336295 bytes).
 PDF statistics:
- 1137 PDF objects out of 1200 (max. 8388607)
- 956 compressed objects within 10 object streams
- 231 named destinations out of 1000 (max. 500000)
- 573 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1500 PDF objects out of 1728 (max. 8388607)
+ 1259 compressed objects within 13 object streams
+ 322 named destinations out of 1000 (max. 500000)
+ 801 words of extra memory for PDF output out of 10000 (max. 10000000)
 

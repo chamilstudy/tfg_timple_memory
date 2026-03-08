@@ -1,0 +1,138 @@
+
+\begin{itemize}
+    \item Interfaz \textit{Nota}.
+    \item Objeto \textit{Notas} con todas las notas aplicando, la interfaz anterior.
+    \item Búsqueda de notas por nombre o altura tonal.
+    \item Creación de notas a través de una ristra o argumentos nombre y octava.
+    \item Obtención de siguiente o anterior nota según altura tonal.
+\end{itemize}
+
+\textbf{En segundo lugar}, se desarrolló la lógica de los \textit{Acordes}, a través de la implementación de:
+
+\begin{itemize}
+    \item Interfaz \textit{Acorde}.
+    \item Interfaz \textit{Cualidad}.
+    \item Objeto \textit{Cualidades} con todas las cualidades, aplicando la interfaz anterior.
+    \item Búsqueda de cualidades por uno de sus nombres.
+    \item Creación de acordes a través de una ristra o argumentos nota y cualidad.
+    \item Obtención del siguiente o anterior acorde según altura tonal de su nota raiz.
+\end{itemize}
+
+\textbf{En tercer lugar}, se desarrolló la lógica de \textit{Instrumento}, a través de la implementación de:
+
+\begin{itemize}
+    \item Interfaz \textit{Instrumento}.
+    \item Creación de instrumentos con argumentos nombre, trastes y cuerdas al aire como vector de objeto \textit{Nota} o vector de ristras.
+\end{itemize}
+
+\textbf{En cuarto lugar}, se desarrolló la lógica de \textit{Diagrama de Acorde}, a través de la implementación de:
+
+\begin{itemize}
+    \item Interfaz \textit{Diagrama de Acorde}.
+    \item Creación de diagramas de acordes con argumentos, \textit{Instrumento}, \textit{Acorde} y profundidad de traste.
+\end{itemize}
+
+\textbf{En quinto lugar}, se desarrolló el \textit{algoritmo} donde destacamos:
+
+\textbf{Finalmente}, se desarrollaron las \textit{pruebas unitarias} donde destacamos:
+
+La etapa de desarrollo implicó la implementación de la lógica de los distintos elementos musicales, organizados en cuatro bloques principales:
+
+\begin{itemize}
+    \item \textbf{Interfaz \textit{Nota}} con propiedades:
+        \begin{itemize}
+            \item \textit{Nombre} en forma de objeto con propiedades \textit{latín} y \textit{anglosajona} en forma de ristras.
+            \item \textit{Altura tonal} en forma de enero.
+            \item \textit{Octava} en forma de entero.
+        \end{itemize}
+    \item \textbf{Objeto \textit{Notas}} que contiene todas las notas existentes.
+    \begin{itemize}
+        \item Claves utilizando los nombres anglosajones de las notas.
+        \item Valores utilizando la interfaz \textit{Nota} y completando la información.
+    \end{itemize}
+    \item Las \textbf{funciones}:
+    \begin{itemize}
+        \item \textit{findNoteByNoteName} dado el nombre de una nota en forma de ristra, comprueba en \textit{Notas} si existe y devuelve un objeto \textit{Nota}.
+        \item \textit{createNote} dado el nombre de una nota en forma de ristra y la octava en forma de entero, devuelve un objeto \textit{Nota}.
+        \item \textit{nextNote} dado un objeto \textit{Nota}, devuelve el objeto \textit{Nota} con siguiente altura tonal, avanzando una octava si se trata de la ultima nota.
+        \item \textit{previousNote} dado un objeto \textit{Nota}, devuelve el objeto \textit{Nota} con anterior altura tonal, retrocediendo una octava si se trata de la primera nota.
+        \item \textit{nextNoteBySteps} y \textit{previousNoteBySteps} dado un objeto \textit{Nota} y los pasos en forma de entero, llama a la función \textit{nextNote} o \textit{previousNote} respectivamente, tantas veces como pasos índicados, devolviendo un objeto \textit{Nota}.
+        \item \textit{parseNote} dada una ristra que representa una nota \textit{(i.e. nota y octava), devuelve un objeto \textit{Nota}}
+        \item \textit{getNoteByPitchClass} dada una altura tonal en forma de entero, devuelve un objeto \textit{Nota}.
+    \end{itemize}
+\end{itemize}
+
+\begin{itemize}
+     \item \textbf{Interfaz \textit{Cualidad}} con propiedades:
+        \begin{itemize}
+            \item \textit{Nombre de cualidad} en forma de conjunto de ristras.
+            \item \textit{Alturas tonales} en forma de objeto con clave entero y valor entero.
+        \end{itemize}
+    \item \textbf{Interfaz \textit{Acorde}} con propiedades:
+        \begin{itemize}
+            \item \textit{Nota raiz} en forma objeto \textit{Nota}.
+            \item \textit{Cualidad} en forma de objeto \textit{Cualidad}.
+        \end{itemize}
+    \item \textbf{Objeto \textit{Cualidades}} que contiene las cualidades mayor, menor, aumentada, disminuida, séptima, mayor séptima, menor séptima, aumentada séptima, disminuida séptima.
+    \begin{itemize}
+        \item Claves utilizando uno de los nombres de la cualidad.
+        \item Valores utilizando la interfaz \textit{Cualidad} y completando la información.
+    \end{itemize}
+    \item Las \textbf{funciones}:
+    \begin{itemize}
+        \item \textit{findQualityByQualityName} dado el nombre de una cualidad en forma de ristra, comprueba en \textit{Cualidades} si existe y devuelve un objeto \textit{Cualidad}.
+        \item \textit{isNoteInChord} dado un objeto \textit{Acorde} y un objeto \textit{Nota}, comprueba si la nota pertenece a la cualidad del acorde.
+        \item \textit{createChord} dado un objeto \textit{Nota} y el nombre de una cualidad en forma de string, devuelve un objeto \textit{Acorde}.
+        \item \textit{nextChord} dado un objeto \textit{Acorde}, devuelve el objeto \textit{Acorde} con la nota raiz en la siguiente altura tonal, avanzando una octava si se trata de la ultima nota.
+        \item \textit{previousChord} dado un objeto \textit{Nota}, devuelve el objeto \textit{Acoder} con la nota raiz en la anterior altura tonal, retrocediendo una octava si se trata de la primera nota.
+        \item \textit{parseChord} dada una ristra que representa un acorde \textit{(i.e. nota raiz y cualidad), devuelve un objeto \textit{Acorde}}
+    \end{itemize}
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\textbf{En quinto lugar}, el proceso anterior no garantiza que las combinaciones sean correctas musicalmente \textit{(i.e. puede generar combinaciones con notas repetidas o ausentes)} y practicables \textit{(i.e. puede haber más trastes que dedos disponibles)}. Por lo tanto, se procedió a la definición de un conjunto de criterios de selección:
+
+\begin{itemize}
+    \item El diagrama de un acorde debe ser físicamente practicable \textit{(i.e. debe poder tocarse utilizando como máximo cuatro dedos y considerando la posibilidad de cejilla)}.
+    
+    \item El diagrama de un acorde debe ser musicalmente correcto. Cada nota definida por la cualidad debe tener un peso asociado, estableciendo una prioridad \textit{(i.e. no se admiten combinaciones con todas las notas iguales, combinaciones sin la nota raíz y se priorizan aquellas con mayor suma de pesos)}.
+    
+    \item Entre los diagramas de acordes posibles debe seleccionarse uno: el de mejor relacion en facilidad de reproducción \textit{(i.e. mayor número de notas al aire, mínimo número de dedos, ausencia de cuerdas muteadas y sin cejilla)} y correctitud musical.
+\end{itemize}
+
+De este modo, se diseñó un proceso en cuatro etapas implementando los criterios anteriores:
+
+\begin{enumerate}
+    \item \textbf{Generación de vector de combinaciones de trastes posibles}, tal y como se obtenían en el proceso anterior.
+    \item \textbf{Selección de combinaciones practicables}, donde se tendrá en cuenta:
+        \begin{itemize}
+            \item El uso de un máximo de cuatro dedos.
+            \item Cada cuerda muteada o pulsada suman un dedo.
+            \item Las cuerdas al aire no suman dedos.
+            \item La cejilla suma un dedo para todas las cuerdas que tengan el mismo traste pulsado.
+        \end{itemize}
+    \item \textbf{Evaluación de facilidad de reproducción}, donde se puntúa:
+        \begin{itemize}
+            \item Dedos utilizados: a mayor cantidad, más dificil.
+            \item Presencia de cejilla: si existe, más dificil.
+            \item Cuerdas al aire: a menor cantidad, más dificil.
+            \item Cuerdas muteadas: a mayor cantidad, más dificil.
+        \end{itemize}
+    \item \textbf{Evaluación de correctitud musical}, donde se puntúa la existencia en la combinación de las notas de la cualidad, estableciendo un mayor o menor peso a cada nota según su importancia \textit{(i.e. la nota raíz siempre tendrá mayor peso que el resto)}.
+\end{enumerate}
+
+De este modo, se diseñó un sistema de puntuación por \textbf{penalizaciones}, sumando la dificultad de reproducción y las carencias en correctitud musical, con el fín de realizar una selección de la \textbf{mejor combinación} a través de la \textbf{mínima puntuación}.

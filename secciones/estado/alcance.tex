@@ -1,4 +1,5 @@
 \section{Alcance del proyecto}
+\label{c:alcance}
 
 En las secciones anteriores se ha realizado un estudio de mercado, identificando las aplicaciones web mas populares para otros instrumentos, listando y comparando sus utilidades y funcionalidades características, haciendo especial hincapié en aquellas funcionalidades menos comunes.
 
@@ -56,32 +57,63 @@ Utilizando como referencia lo anterior, se han especificado una serie de requisi
     \scriptsize
     \begin{tabular}{l p{0.58\textwidth} p{0.24\textwidth} l}
         \textbf{ID} & \textbf{Requisito Funcional} & \textbf{Funcionalidad} & \textbf{Prio.} \\ \hline
+        % ---------------- Cuenta de usuario ----------------
         RF1  & El usuario debe poder iniciar y cerrar sesión. & Cuenta de usuario & Alta \\ \hline
         RF2  & El usuario debe poder registrarse utilizando su correo electrónico, contraseña y un nombre de usuario. & Cuenta de usuario & Alta \\ \hline
         RF3  & El usuario debe poder modificar su perfil. & Cuenta de usuario & Alta \\ \hline
-        RF4  & El usuario debe poder recuperar o restablecer su contraseña en caso de olvido. & Cuenta de usuario & Alta \\ \hline
-        RF5  & El sistema debe validar que toda publicación incluya al menos título, letra y acordes. & Crear y editar publicaciones & Alta \\ \hline
-        RF6  & El usuario debe poder crear publicaciones en respuesta a solicitudes realizadas por otros usuarios. & Crear y editar publicaciones & Alta \\ \hline
-        RF7  & El usuario debe poder crear, editar y eliminar sus propias publicaciones. & Crear y editar publicaciones & Alta \\ \hline
-        RF8  & El usuario debe poder visualizar una lista de acordes en las publicaciones. & Utilidades en publicaciones & Alta \\ \hline
-        RF9  & El usuario debe poder activar y desactivar el autoscroll en una publicación. & Utilidades en publicaciones & Alta \\ \hline
-        RF10 & El usuario debe poder seleccionar una notación musical preferida. & Utilidades en publicaciones & Alta \\ \hline
-        RF12 & El usuario debe poder transportar los acordes de una publicación. & Utilidades en publicaciones & Media \\ \hline
-        RF13 & El usuario debe poder ver guías de rasgueos. & Utilidades en publicaciones & Media \\ \hline
-        RF14 & El usuario debe poder compartir publicaciones mediante enlace o redes sociales. & Utilidades en publicaciones & Media \\ \hline
-        RF15 & El usuario debe poder imprimir o descargar una publicación. & Utilidades en publicaciones & Baja \\ \hline
-        RF16 & El usuario debe poder visualizar una biblioteca de canciones. & Biblioteca de canciones & Alta \\ \hline
-        RF17 & El usuario debe poder acceder a una calculadora de escalas y notas. & Calculadora de escalas y notas & Alta \\ \hline
-        RF18 & El usuario debe poder acceder a un diccionario de acordes. & Diccionario de acordes & Alta \\ \hline
-        RF19 & El usuario debe poder acceder a un afinador interactivo. & Afinador & Media \\ \hline
-        RF20 & El afinador interactivo debe mostrar cuerdas, afinación objetivo y afinación actual. & Afinador & Alta \\ \hline
-        RF21 & El usuario debe poder comentar en publicaciones. & Comentar publicaciones & Media \\ \hline
-        RF22 & El usuario debe poder puntuar una publicación. & Puntuar publicaciones & Media \\ \hline
-        RF23 & El usuario debe poder acceder a páginas informativas sobre el instrumento. & Cursos y guías & Media \\ \hline
-        RF24 & El usuario debe poder guardar canciones en su carpeta personal. & Guardar canciones & Baja \\ \hline
-        RF25 & El usuario debe poder solicitar canciones. & Solicitar nuevas canciones & Baja \\ \hline
+        RF4  & El usuario debe poder eliminar su cuenta. & Cuenta de usuario & Alta \\ \hline
+        RF5  & El usuario debe poder recuperar o restablecer su contraseña en caso de olvido. & Cuenta de usuario & Alta \\ \hline
+
+        % ---------------- Crear y editar publicaciones ----------------
+        RF6  & El sistema debe validar que toda publicación incluya al menos título, letra y acordes. & Crear y editar publicaciones & Alta \\ \hline
+        RF7  & El usuario debe poder crear publicaciones en respuesta a solicitudes realizadas por otros usuarios. & Crear y editar publicaciones & Alta \\ \hline
+        RF8  & El usuario debe poder crear, editar y eliminar sus propias publicaciones. & Crear y editar publicaciones & Alta \\ \hline
+        RF9  & El usuario debe poder solicitar canciones. & Crear y editar publicaciones & Baja \\ \hline
+
+        % ---------------- Utilidades en publicaciones ----------------
+        RF10 & El usuario debe poder visualizar diagramas de acordes en las publicaciones. & Utilidades en publicaciones & Alta \\ \hline
+        RF11 & El usuario debe poder activar y desactivar el autoscroll en una publicación. & Utilidades en publicaciones & Alta \\ \hline
+        RF12 & El usuario debe poder seleccionar una notación musical preferida. & Utilidades en publicaciones & Alta \\ \hline
+        RF13 & El usuario debe poder transportar los acordes de una publicación. & Utilidades en publicaciones & Media \\ \hline
+        RF14 & El usuario debe poder ver guías de rasgueos. & Utilidades en publicaciones & Media \\ \hline
+        RF15 & El usuario debe poder compartir publicaciones mediante enlace o redes sociales. & Utilidades en publicaciones & Media \\ \hline
+        RF16 & El usuario debe poder imprimir o descargar una publicación. & Utilidades en publicaciones & Baja \\ \hline
+        RF17 & El usuario debe poder comentar en publicaciones. & Funcionalidades en publicaciones & Media \\ \hline
+        RF18 & El usuario debe poder puntuar una publicación. & Funcionalidades en publicaciones & Media \\ \hline
+        RF19 & El usuario debe poder guardar canciones en su carpeta personal. & Funcionalidades en publicaciones & Baja \\ \hline
+
+        % ---------------- Biblioteca ----------------
+        RF20 & El usuario debe poder visualizar una biblioteca de canciones. & Biblioteca de canciones & Alta \\ \hline
+
+        % ---------------- Calculadora de escalas y notas ----------------
+        RF21 & El usuario debe poder acceder a una calculadora de escalas y notas. & Calculadora de escalas y notas & Alta \\ \hline
+
+        % ---------------- Diccionario de acordes ----------------
+        RF22 & El usuario debe poder acceder a un diccionario de acordes. & Diccionario de acordes & Alta \\ \hline
+
+        % ---------------- Afinador ----------------
+        RF23 & El usuario debe poder acceder a un afinador interactivo. & Afinador & Media \\ \hline
+        RF24 & El afinador interactivo debe mostrar cuerdas, afinación objetivo y afinación actual. & Afinador & Alta \\ \hline
+
+         % ---------------- Cursos y guías ----------------
+        RF25 & El usuario debe poder acceder a páginas informativas sobre el instrumento. & Cursos y guías & Media \\ \hline
+
+        RF26 & El sistema debe aceptar distintos instrumentos de cuerda pulsada. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF27 & El sistema debe aceptar como entrada uno o varios acordes. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF28 & El sistema debe devolver un único diagrama de acorde por cada acorde solicitado. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF29 & El sistema debe garantizar que cada diagrama generado sea musicalmente correcto respecto al acorde solicitado. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF30 & El sistema debe garantizar que cada diagrama generado sea físicamente ejecutable. & Cálculo de diagramas de acordes & Alta \\ \hline
+
+        RF31 & El sistema debe calcular cada diagrama optimizando simultáneamente la correctitud musical y la facilidad de ejecución. & Cálculo de diagramas de acorde & Alta \\ \hline
+
+        RF32 & El sistema debe aceptar acordes en notación latina o anglosajona. & Cálculo de diagramas de acorde & Media \\ \hline
+       
     \end{tabular}
-    \caption{Requisitos Funcionales de la aplicación web corregidos}\label{tab:requisitosfuncionales}
+    \caption{Requisitos Funcionales de la aplicación web reorganizados por funcionalidad}\label{tab:requisitosfuncionales}
 \end{table}
 
 

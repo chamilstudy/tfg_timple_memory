@@ -23,6 +23,21 @@
 \usepackage{algorithm}
 \usepackage{algpseudocode}
 
+% Redefinir palabras clave en español
+\renewcommand{\algorithmicrequire}{\textbf{Entrada:}}
+\renewcommand{\algorithmicensure}{\textbf{Salida:}}
+\renewcommand{\algorithmicfunction}{\textbf{función}}
+\renewcommand{\algorithmicend}{\textbf{fin}}
+\renewcommand{\algorithmicif}{\textbf{si}}
+\renewcommand{\algorithmicthen}{\textbf{entonces}}
+\renewcommand{\algorithmicelse}{\textbf{sino}}
+\renewcommand{\algorithmicfor}{\textbf{para}}
+\renewcommand{\algorithmicforall}{\textbf{para todo}}
+\renewcommand{\algorithmicdo}{\textbf{hacer}}
+\renewcommand{\algorithmicwhile}{\textbf{mientras}}
+\renewcommand{\algorithmicreturn}{\textbf{retorna}}
+\renewcommand{\algorithmiccomment}[1]{\hfill // #1}
+
 % Glosario de términos - BEGIN
 \usepackage{glossaries}
 \makeglossaries\input{glosario.tex}
@@ -62,6 +77,8 @@
 
 \newcommand{\figref}[1]{(véase Figura~\ref{#1})}
 \newcommand{\tabref}[1]{(véase Cuadro~\ref{#1})}
+\newcommand{\capref}[1]{(véase Capítulo~\ref{#1})}
+\newcommand{\algoref}[1]{(véase Algoritmo~\ref{#1})}
 
 
 
@@ -95,13 +112,13 @@
 
 \input{secciones/introduccion/introduccion}
 
-\input{secciones/metodologia/metodologia}
-
-\input{secciones/estado/estado}
-
 \input{secciones/normativa/normativa}
 
 \input{secciones/tecnologias/tecnologias}
+
+\input{secciones/metodologia/metodologia}
+
+\input{secciones/estado/estado}
 
 \input{secciones/desarrollo/desarrollo.tex}
 

@@ -4,47 +4,60 @@
 \contentsline {section}{\numberline {1.2}Objetivos}{1}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Principales aportaciones}{2}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}Social}{2}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Técnico}{3}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.2}Técnico}{2}{subsection.1.3.2}%
 \contentsline {section}{\numberline {1.4}Competencias específicas}{3}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}Competencias comunes a la rama informática}{3}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Competencias de tecnología específica}{5}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.2}Competencias de tecnología específica}{4}{subsection.1.4.2}%
 \contentsline {subsection}{\numberline {1.4.3}Competencia de trabajo de fin de grado}{5}{subsection.1.4.3}%
 \contentsline {section}{\numberline {1.5}Alineamiento con los objetivos de desarrollo sostenible}{5}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Estructura del documento}{6}{section.1.6}%
-\contentsline {chapter}{\numberline {2}Metodología y planificación}{8}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Metodología}{8}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Planificación}{11}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Estado del Arte}{13}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Fundamentos musicales}{13}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Conceptos básicos}{13}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.1}Notación musical}{13}{subsubsection.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.2}Notas musicales}{14}{subsubsection.3.1.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.1.3}Escala musical}{15}{subsubsection.3.1.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.1.4}Acordes}{15}{subsubsection.3.1.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.1.5}Tonalidad}{17}{subsubsection.3.1.1.5}%
-\contentsline {subsection}{\numberline {3.1.2}Instrumentos de cuerda pulsada}{17}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Particularidades del timple}{20}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}Estado Actual}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Análisis de aplicaciones web}{22}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Ukulele Tabs}{22}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}UkuTabs}{24}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Ultimate Guitar}{26}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}LaCuerda}{28}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}Comparación de aplicaciones web}{30}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Alcance del proyecto}{32}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Normativa y legislación}{34}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Tecnologías y herramientas utilizadas}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Programas}{35}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Otras tecnologías}{35}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Desarrollo}{36}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Incremento 1}{36}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Análisis}{36}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Diseño de datos}{37}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Diseño de interfaz}{37}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Desarrollo}{41}{subsection.6.1.4}%
-\contentsline {chapter}{\numberline {7}Resultados}{42}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Objetivos cumplidos}{42}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Ajuste a planificación}{42}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Aplicación Web}{42}{section.7.3}%
-\contentsline {chapter}{\numberline {8}Manual de usuario}{43}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Conclusiones}{44}{chapter.9}%
+\contentsline {chapter}{\numberline {2}Normativa y legislación}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Licencias Software}{8}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Licencia MIT - Massachusetts Institute of Technology}{8}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Licencia GPLv2 - \textit {General Public License version 2}}{8}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Licencia LPPL - \textit {LaTex Project Public License}}{9}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Licencia Apache}{9}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Licencia EULA - \textit {End User License Agreement}}{9}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Licencias Comerciales}{9}{subsection.2.1.6}%
+\contentsline {section}{\numberline {2.2}Legislación}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Reglamento General de Protección de Datos - RGPD}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales - LOPDGDD}{11}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}Tecnologías y herramientas utilizadas}{12}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Metodología y planificación}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Metodología}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Planificación}{16}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Estado del Arte}{18}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Fundamentos musicales}{18}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Conceptos básicos}{18}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}Notación musical}{18}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}Notas musicales}{19}{subsubsection.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}Escala musical}{20}{subsubsection.5.1.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}Acordes}{21}{subsubsection.5.1.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.1.5}Tonalidad}{22}{subsubsection.5.1.1.5}%
+\contentsline {subsection}{\numberline {5.1.2}Instrumentos de cuerda pulsada}{23}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Particularidades del timple}{26}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Estado Actual}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Análisis de aplicaciones web}{28}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Ukulele Tabs}{28}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}UkuTabs}{30}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Ultimate Guitar}{32}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}LaCuerda}{34}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Comparación de aplicaciones web}{36}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Alcance del proyecto}{38}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Desarrollo}{41}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Incremento 1}{41}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Análisis}{41}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Diseño}{42}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.2.1}Diseño de datos}{42}{subsubsection.6.1.2.1}%
+\contentsline {subsubsection}{\numberline {6.1.2.2}Diseño de interfaz}{45}{subsubsection.6.1.2.2}%
+\contentsline {subsection}{\numberline {6.1.3}Desarrollo}{48}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Incremento 2}{54}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Análisis}{54}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Diseño}{55}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Desarrollo}{60}{subsection.6.2.3}%
+\contentsline {chapter}{\numberline {7}Resultados}{65}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Objetivos cumplidos}{65}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Ajuste a planificación}{65}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Aplicación Web}{65}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Manual de usuario}{66}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Conclusiones}{67}{chapter.9}%

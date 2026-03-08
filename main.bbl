@@ -65,9 +65,66 @@ S.~Thomas. (2012) Revisiting the iterative incremental mona lisa. [Online]. Avai
 ------. (2025) Alianzas para lograr los objetivos. [Online]. Available: \url{https://www.un.org/sustainabledevelopment/es/globalpartnerships/}
 \BIBentrySTDinterwordspacing
 
+\bibitem{mit_license}
+{Wikipedia}. (2023) Mit license. \url{https://es.wikipedia.org/wiki/Licencia_MIT}.
+
+\bibitem{gplv2_license}
+------. (2025) Gnu general public license. \url{https://es.wikipedia.org/wiki/GNU_General_Public_License}.
+
+\bibitem{latex_license}
+(2008) {LaTeX Project Public License}. \url{https://www.latex-project.org/lppl/}.
+
+\bibitem{apache_license}
+{Wikipedia}. (2026) Apache license. \url{https://es.wikipedia.org/wiki/Apache_License}.
+
+\bibitem{eula_license}
+------. (2025) Acuerdo de licencia del usuario final. \url{https://es.wikipedia.org/wiki/Acuerdo_de_licencia_del_usuario_final}.
+
+\bibitem{gdpr2016}
+{Parlamento Europeo y Consejo de la Unión Europea}, ``Reglamento general de protección de datos,'' \url{https://www.boe.es/doue/2016/119/L00001-00088.pdf}, 2016.
+
+\bibitem{lopdgdd2018}
+{Boletín Oficial del Estado (España)}, ``{Ley Orgánica de Protección de Datos Personales y Garantía de los derechos Digitales},'' \url{https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673}, 2018.
+
+\bibitem{affinity_license}
+{Serif}. (2024) Affinity software license. \url{https://affinity.serif.com/en-gb/terms/}.
+
+\bibitem{figma_license}
+{Figma Enterprise}. (2025) Figma terms of service. \url{https://www.figma.com/legal/tos/}.
+
+\bibitem{vscode_license}
+(2025) {Visual Studio Code License}. \url{https://code.visualstudio.com/License}.
+
+\bibitem{nextjs_license}
+{Vercel}. (2024) Next.js license. \url{https://github.com/vercel/next.js/blob/canary/license.md}.
+
+\bibitem{typescript_license}
+{Microsoft Corp}. (2004) Typescript license. \url{https://github.com/microsoft/TypeScript/blob/main/LICENSE.txt}.
+
+\bibitem{lucide_license}
+{Lucide}. (2025) Lucide icons license. \url{https://github.com/lucide-icons/lucide/blob/main/LICENSE}.
+
+\bibitem{tailwindcss_license}
+{TailwindCSS}. (2023) Tailwindcss license. \url{https://github.com/tailwindlabs/tailwindcss/blob/main/LICENSE}.
+
+\bibitem{vitest_license}
+{Vitest}. (2025) Vitest license. \url{https://github.com/vitest-dev/vitest/blob/main/LICENSE}.
+
+\bibitem{supabase_license}
+{Supabase Inc}. (2025) Supabase license. \url{https://supabase.com/terms}. Apache 2.0.
+
+\bibitem{git_license}
+{Open Source Initiative}. (2025) Git license. \url{https://opensource.org/license/GPL-2.0}.
+
+\bibitem{github_license}
+{GitHub Inc}. (2020) Github terms of service. \url{https://docs.github.com/en/site-policy/github-terms/github-terms-of-service}.
+
+\bibitem{markdown}
+{Wikipedia}. (2025) Markdown. \url{https://es.wikipedia.org/wiki/Markdown}.
+
 \bibitem{wikipedia_notacion_musical}
 \BIBentryALTinterwordspacing
-{Wikipedia}. (2025) Notación musical. [Online]. Available: \url{https://es.wikipedia.org/wiki/Notaci%C3%B3n_musical}
+------. (2025) Notación musical. [Online]. Available: \url{https://es.wikipedia.org/wiki/Notaci%C3%B3n_musical}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wikipedia_escala_musical}
@@ -220,28 +277,12 @@ I.~Kamakawiwo'ole. (2009) Somewhere over the rainbow tab por israel kamakawiwo'o
 ------. (2025) Lacuerda. [Online]. Available: \url{https://acordes.lacuerda.net/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{vscode_license}
-``Visual studio code license,'' \url{https://code.visualstudio.com/License}, 2025, mIT License.
-
-\bibitem{nextjs_license}
-``Next.js license,'' \url{https://github.com/vercel/next.js/blob/canary/license.md}, 2025, mIT License.
-
-\bibitem{supabase_license}
-``Supabase license,'' \url{https://supabase.com/terms}, 2025, apache 2.0.
-
-\bibitem{git_license}
-``Git license,'' \url{https://git-scm.com/about/license}, 2025, gPLv2 License.
-
-\bibitem{github_license}
-``Github terms of service,'' \url{https://docs.github.com/en/site-policy/github-terms/github-terms-of-service}, 2025.
-
-\bibitem{latex_license}
-``Latex project public license,'' \url{https://www.latex-project.org/lppl/}, 2025.
-
 \bibitem{nextjs_supabase_starter}
-``Use supabase auth with next.js,'' \url{https://supabase.com/docs/guides/auth/quickstarts/nextjs}, 2025.
+{Supabase Inc}. (2025) Use supabase auth with next.js. \url{https://supabase.com/docs/guides/auth/quickstarts/nextjs}.
 
-\bibitem{lucide_icons}
-``Lucide icons,'' \url{https://lucide.dev/icons/}, 2025.
+\bibitem{wikipedia_dto}
+\BIBentryALTinterwordspacing
+{Wikipedia}. (2025) Data transfer object. [Online]. Available: \url{https://en.wikipedia.org/wiki/Data_transfer_object}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}

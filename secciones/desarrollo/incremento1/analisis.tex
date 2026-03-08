@@ -1,0 +1,39 @@
+\subsection{Análisis}
+Se comenzó la etapa de análisis con la definición, en mayor profundidad, de los \textbf{objetivos principales}:
+
+\begin{itemize}
+    \item \textbf{Estructura básica de la página web:} pagina principal, términos y condiciones, aviso legal, preguntas frecuentes, \textit{header} y \textit{footer}
+    \item \textbf{Autenticación: página de registro de usuario:} inicio de sesión, solicitud de cambio de contraseña, cambio de contraseña, error 404 y error genérico.
+    \item \textbf{Perfil de usuario:} página de perfil de usuario de acceso autenticado, ajustes de perfil (modificación de datos públicos, de acceso y eliminación de cuenta) y perfil de usuario de acceso público.
+\end{itemize}
+
+Además, se seleccionaron los requisitos funcionales \tabref{tab:requisitosfuncionalesincremento1} y no funcionales \tabref{tab:requisitosnofuncionalesincremento1} relacionados con los objetivos del incremento.
+
+\begin{table}[H]
+    \centering
+    \scriptsize
+    \begin{tabular}{l p{0.58\textwidth} p{0.20\textwidth} l}
+        \textbf{ID} & \textbf{Requisito Funcional} & \textbf{Funcionalidad} & \textbf{Prioridad} \\ \hline
+        RF1  & El usuario debe poder iniciar y cerrar sesión. & Cuenta de usuario & Alta \\ \hline
+        RF2  & El usuario debe poder registrarse utilizando su correo electrónico, contraseña y un nombre de usuario. & Cuenta de usuario & Alta \\ \hline
+        RF3  & El usuario debe poder modificar su perfil. & Cuenta de usuario & Alta \\ \hline
+        RF4  & El usuario debe poder eliminar su cuenta. & Cuenta de usuario & Alta \\ \hline
+        RF5  & El usuario debe poder recuperar o restablecer su contraseña en caso de olvido. & Cuenta de usuario & Alta \\ \hline
+    \end{tabular}
+    \caption{Requisitos funcionales cubiertos en el incremento 1}\label{tab:requisitosfuncionalesincremento1}
+\end{table}
+
+\begin{table}[H]
+    \centering
+    \scriptsize
+    \begin{tabular}{l p{0.79\textwidth} l}
+    \textbf{ID} & \textbf{Requisito No Funcional} & \textbf{Prioridad} \\ \hline
+    RNF1 & El sistema debe ser responsivo, adaptándose a diferentes tamaños de pantalla y dispositivos. & Alta \\ \hline
+    RNF2 & El sistema debe incluir una descripción textual (alt) en todas las imágenes. & Alta \\ \hline
+    RNF3 & El sistema debe incluir un aria-label o aria-labelledby en todos los elementos interactivos, describiendo su función para lectores de pantalla. & Alta \\ \hline
+    RNF4 & El sistema debe proporcionar navegación mediante un encabezado (header) y un pie de página (footer) consistentes en todas las vistas. & Alta \\
+    \end{tabular}
+    \caption{Requisitos no funcionales cubiertos en el incremento 1}\label{tab:requisitosnofuncionalesincremento1}
+\end{table}
+
+Finalmente, se seleccionaron las \textbf{herramientas} y \textbf{tecnologías} a utilizar en el incremento \capref{c:tecyher} y se decidió la utilización de la plantilla \textbf{\textit{Next.js Supabase Auth Starter}}~\cite{nextjs_supabase_starter} como punto de partida para el desarrollo de las funcionalidades de autenticación del usuario.

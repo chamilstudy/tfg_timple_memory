@@ -6,17 +6,17 @@ Durante la etapa de desarrollo se realizó la implementación de módulos de ló
 \begin{itemize}
     \item \textbf{Notas}:
     \begin{itemize}
-        \item Interfaz \textit{Note}, con propiedad nombre (latín y anglosajón), altura tonal y octava.
+        \item Interfaz \textit{Note}, con propiedad nombre (latín y anglosajón), \gls{altura tonal} y \gls{octava}.
         \item Objeto \textit{Notes}, mapa de \textit{Note} que representan cada una de las 12 notas.
         \item Métodos para la creación de \textit{Note}, a través de varios parametros o una ristra.
         \item Métodos para la búsqueda de una nota en \textit{Notes} por altura tonal y por nombre.
-        \item Métodos para la trasposición de notas, con funciones para el avance o el retroceso en uno o varios pasos.
+        \item Métodos para la \gls{transposición} de notas, con funciones para el avance o el retroceso en uno o varios pasos.
     \end{itemize}
 
     \item \textbf{Acordes}:
     \begin{itemize}
         \item Interfaz \textit{Quality}, con propiedades para la definición de varios nombres \textit{(i.e. para cualidad Mayor se establecen mayor, maj y M)} y conjunto de alturas tonales con pesos.
-        \item Objeto \textit{Qualities}, mapa de \textit{Quality} que representan las cualidades mas comunes \textit{(i.e. Mayor, Menor, Disminuida, Aumentada, Septima, Mayor Septima...)}.
+        \item Objeto \textit{Qualities}, mapa de \textit{Quality} que representan las \gls{cualidad}es mas comunes \textit{(i.e. Mayor, Menor, Disminuida, Aumentada, Septima, Mayor Septima...)}.
         \item Interfaz \textit{Chord}, con propiedad \textit{Note} y \textit{Quality}.
         \item Métodos para la creación de \textit{Chord}, a través de varios parametros o una ristra.
         \item Método de búsqueda de una cualidad en \textit{Qualities} por nombre.
@@ -150,7 +150,7 @@ De este modo, se construyen variantes seleccionando un valor de la segunda dimen
 \end{algorithmic}
 \end{algorithm}
 
-\textbf{Finalmente}, comprobó la efectividad del algoritmo de dos formas. Por un lado, se realizaron pruebas unitarias \figref{fig:tests_it2} para todos los módulos implementados, comenzando por notas y acordes, siguiendo diagramas de acordes y instrumentos, y finalizando con el algoritmo de acordes.
+\textbf{Finalmente}, comprobó la efectividad del algoritmo de dos formas. Por un lado, se realizaron pruebas unitarias \figref{fig:test_it2} para todos los módulos implementados, comenzando por notas y acordes, siguiendo diagramas de acordes y instrumentos, y finalizando con el algoritmo de acordes.
 
 \begin{figure}[H]
     \centering
@@ -158,16 +158,21 @@ De este modo, se construyen variantes seleccionando un valor de la segunda dimen
     \caption{Ejecución de pruebas del incremento 2 utilizando \textit{Vitest}}\label{fig:test_it2}
 \end{figure}
 
-Por otro lado, se implementó una interfaz gráfica que imprime para un acorde dado los diagramas para timple, contra timple y ukelele. Se realizaron pruebas con distintos acordes \figref{fig:cmayor_it2} y \figref{fig:gmayor_it2}.
+Por otro lado, se implementó una interfaz gráfica que imprime para un acorde dado los diagramas para timple, contra y ukelele. Se realizaron pruebas con distintos acordes \figref{fig:cmayor_it2} y \figref{fig:gmayor_it2}.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg}
-    \caption{Interfaz gráfica de prueba del incremento 2 para el acorde de \textit{C}}\label{fig:cmayor_it2}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\textwidth]{Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg}
-    \caption{Interfaz gráfica de prueba del incremento 2 para el acorde de \textit{Sol7}}\label{fig:gmayor_it2}
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{Ilustraciones/desarrollo/incremento2/desarrollo/cmayor_it2.jpeg}
+        \caption{Interfaz gráfica de prueba del incremento 2 para el acorde de \textit{C}}\label{fig:cmayor_it2}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{Ilustraciones/desarrollo/incremento2/desarrollo/gmayor_it2.jpeg}
+        \caption{Interfaz gráfica de prueba del incremento 2 para el acorde de \textit{Sol7}}\label{fig:gmayor_it2}
+    \end{subfigure}  
+    \vspace{1em}
+    \caption{Diseño de diálogo de reporte}\label{fig:chord_test_it2}
 \end{figure}

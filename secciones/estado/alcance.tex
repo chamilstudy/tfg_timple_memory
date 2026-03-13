@@ -74,7 +74,7 @@ Utilizando como referencia lo anterior, se han especificado una serie de requisi
         RF10 & El usuario debe poder visualizar diagramas de acordes en las publicaciones. & Utilidades en publicaciones & Alta \\ \hline
         RF11 & El usuario debe poder activar y desactivar el autoscroll en una publicación. & Utilidades en publicaciones & Alta \\ \hline
         RF12 & El usuario debe poder seleccionar una notación musical preferida. & Utilidades en publicaciones & Alta \\ \hline
-        RF13 & El usuario debe poder transportar los acordes de una publicación. & Utilidades en publicaciones & Media \\ \hline
+        RF13 & El usuario debe poder transponer los acordes de una publicación. & Utilidades en publicaciones & Media \\ \hline
         RF14 & El usuario debe poder ver guías de rasgueos. & Utilidades en publicaciones & Media \\ \hline
         RF15 & El usuario debe poder compartir publicaciones mediante enlace o redes sociales. & Utilidades en publicaciones & Media \\ \hline
         RF16 & El usuario debe poder imprimir o descargar una publicación. & Utilidades en publicaciones & Baja \\ \hline
@@ -95,7 +95,7 @@ Utilizando como referencia lo anterior, se han especificado una serie de requisi
         RF23 & El usuario debe poder acceder a un afinador interactivo. & Afinador & Media \\ \hline
         RF24 & El afinador interactivo debe mostrar cuerdas, afinación objetivo y afinación actual. & Afinador & Alta \\ \hline
 
-         % ---------------- Cursos y guías ----------------
+        % ---------------- Cursos y guías ----------------
         RF25 & El usuario debe poder acceder a páginas informativas sobre el instrumento. & Cursos y guías & Media \\ \hline
 
         RF26 & El sistema debe aceptar distintos instrumentos de cuerda pulsada. & Cálculo de diagramas de acorde & Alta \\ \hline
@@ -111,6 +111,11 @@ Utilizando como referencia lo anterior, se han especificado una serie de requisi
         RF31 & El sistema debe calcular cada diagrama optimizando simultáneamente la correctitud musical y la facilidad de ejecución. & Cálculo de diagramas de acorde & Alta \\ \hline
 
         RF32 & El sistema debe aceptar acordes en notación latina o anglosajona. & Cálculo de diagramas de acorde & Media \\ \hline
+        
+        % ---------------- Cursos y guías ----------------
+        RF33 & El usuario debe poder reportar publicaciones. & Gestión de reportes & Alta \\ \hline
+
+        RF34 & El usuario debe poder reportar a otros usuarios. & Gestión de reportes & Alta \\ \hline
        
     \end{tabular}
     \caption{Requisitos Funcionales de la aplicación web reorganizados por funcionalidad}\label{tab:requisitosfuncionales}
@@ -123,9 +128,9 @@ Utilizando como referencia lo anterior, se han especificado una serie de requisi
 \begin{tabular}{l p{0.84\textwidth} l}
 \textbf{ID} & \textbf{Requisito No Funcional} & \textbf{Prio.} \\ \hline
 RNF1 & El sistema debe ser responsivo, adaptándose a diferentes tamaños de pantalla y dispositivos. & Alta \\ \hline
-RNF2 & El sistema debe incluir una descripción textual (alt) en todas las imágenes. & Alta \\ \hline
+RNF2 & El sistema debe incluir una descripción textual (\textit{alt}) en todas las imágenes. & Alta \\ \hline
 RNF3 & El sistema debe incluir un aria-label o aria-labelledby en todos los elementos interactivos, describiendo su función para lectores de pantalla. & Alta \\ \hline
-RNF4 & El sistema debe proporcionar navegación mediante un encabezado (header) y un pie de página (footer) consistentes en todas las vistas. & Alta \\
+RNF4 & El sistema debe proporcionar navegación mediante un encabezado (\textit{header}) y un pie de página (\textit{footer}) consistentes en todas las vistas. & Alta \\
 \end{tabular}
 \caption{Requisitos No Funcionales de la aplicación web}\label{tab:requisitosnofuncionales}
 \end{table}

@@ -1,0 +1,46 @@
+\subsection{Análisis}
+Se comenzó la etapa de análisis con la definición de los \textbf{objetivos principales} del incremento:
+
+\begin{itemize}
+    \item \textbf{Canciones} en forma de publicaciones, con sus respectivos formularios de creación y edición.
+    \item \textbf{Utilidades en canciones}, visuales como la selección de \gls{notación musical} o técnicos como la selección de instrumento o \gls{transposición}.
+    \item \textbf{Listado de canciones}, incorporando las publicaciones creadas por el usuario como una lista en su perfil.
+    \item \textbf{Solicitudes}, con su respectivo formulario y una página para su visualización y resolución.
+    \item \textbf{Sistema de reportes}, con su respectivo formulario.
+\end{itemize}
+
+Finalmente, se seleccionaron los requisitos funcionales \tabref{tab:requisitosfuncionales} y no funcionales \tabref{tab:requisitosnofuncionalesincremento3} relacionados con los objetivos del incremento.
+
+\begin{table}[H]
+    \centering
+    \scriptsize
+    \begin{tabular}{l p{0.58\textwidth} p{0.20\textwidth} l}
+        \textbf{ID} & \textbf{Requisito Funcional} & \textbf{Funcionalidad} & \textbf{Prioridad} \\ \hline
+        RF6  & El sistema debe validar que toda publicación incluya al menos título, letra y acordes. & Crear y editar publicaciones & Alta \\ \hline
+        RF7  & El usuario debe poder crear publicaciones en respuesta a solicitudes realizadas por otros usuarios. & Crear y editar publicaciones & Alta \\ \hline
+        RF8  & El usuario debe poder crear, editar y eliminar sus propias publicaciones. & Crear y editar publicaciones & Alta \\ \hline
+        RF9  & El usuario debe poder solicitar canciones. & Crear y editar publicaciones & Baja \\ \hline
+        RF10 & El usuario debe poder visualizar diagramas de acordes en las publicaciones. & Utilidades en publicaciones & Alta \\ \hline
+        RF11 & El usuario debe poder activar y desactivar el autoscroll en una publicación. & Utilidades en publicaciones & Alta \\ \hline
+        RF12 & El usuario debe poder seleccionar una notación musical preferida. & Utilidades en publicaciones & Alta \\ \hline
+        RF13 & El usuario debe poder transponer los acordes de una publicación. & Utilidades en publicaciones & Media \\ \hline
+        RF14 & El usuario debe poder ver guías de rasgueos. & Utilidades en publicaciones & Media \\ \hline
+        RF33 & El usuario debe poder reportar publicaciones. & Gestión de reportes & Alta \\ \hline
+        RF34 & El usuario debe poder reportar a otros usuarios. & Gestión de reportes & Alta \\ \hline
+    \end{tabular}
+    \caption{Requisitos funcionales cubiertos en el incremento 3}
+    \label{tab:requisitosfuncionalesincremento3}
+\end{table}
+
+\begin{table}[H]
+    \centering
+    \scriptsize
+    \begin{tabular}{l p{0.79\textwidth} l}
+    \textbf{ID} & \textbf{Requisito No Funcional} & \textbf{Prioridad} \\ \hline
+    RNF1 & El sistema debe ser responsivo, adaptándose a diferentes tamaños de pantalla y dispositivos. & Alta \\ \hline
+    RNF2 & El sistema debe incluir una descripción textual (\textit{alt}) en todas las imágenes. & Alta \\ \hline
+    RNF3 & El sistema debe incluir un aria-label o aria-labelledby en todos los elementos interactivos, describiendo su función para lectores de pantalla. & Alta \\ \hline
+    RNF4 & El sistema debe proporcionar navegación mediante un encabezado (\textit{header}) y un pie de página (\textit{footer}) consistentes en todas las vistas. & Alta \\
+    \end{tabular}
+    \caption{Requisitos no funcionales cubiertos en el incremento 3}\label{tab:requisitosnofuncionalesincremento3}
+\end{table}

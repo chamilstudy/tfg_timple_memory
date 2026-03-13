@@ -6,44 +6,49 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Dibujo incremental de la Mona Lisa por Jeff Patton~\cite {monalisajp}}}{14}{figure.caption.9}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Dibujo iterativo de la Mona Lisa por Jeff Patton~\cite {monalisajp}}}{14}{figure.caption.10}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Dibujo incremental e iterativo de la Mona Lisa por Steven Thomas~\cite {monalisast}}}{15}{figure.caption.11}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Proceso de desarrollo de la metodología iterativa e incremental}}{15}{figure.caption.12}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Proceso de desarrollo adaptado al proyecto}}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Dibujo incremental e iterativo de la Mona Lisa por Steven Thomas~\cite {monalisast}}}{14}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Flujo de desarrollo de la metodología iterativa e incremental}}{15}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Proceso de desarrollo adaptado al proyecto}}{16}{figure.caption.15}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Notación en pentagrama}}{18}{figure.caption.16}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Notas en un piano}}{19}{figure.caption.17}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Acorde de $Do Mayor$ en piano}}{21}{figure.caption.22}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Comparación visual entre las partes del timple y su correspondencia con el piano.}}{24}{figure.caption.25}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Ejemplo de diagrama de acordes para timple}}{25}{figure.caption.29}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Letra y acordes de \emph {Isa de candidito} para guitarra en Cifra Club~\cite {cifra_isadecandidito}.}}{27}{figure.caption.31}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Recursos para timple en distintas plataformas digitales.}}{28}{figure.caption.32}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Páginas informativas de Ukulele Tabs}}{29}{figure.caption.33}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Páginas de UkuTabs.}}{31}{figure.caption.35}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Páginas de Ultimate Guitar.}}{33}{figure.caption.37}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Páginas de LaCuerda.}}{35}{figure.caption.39}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Notación en pentagrama}}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Notas en un piano}}{18}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Acorde de $Do Mayor$ en piano}}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Comparación visual entre las partes del timple y su correspondencia con el piano.}}{23}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Ejemplo de diagrama de acordes para timple}}{24}{figure.caption.29}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Letra y acordes de \emph {Isa de candidito} para guitarra en Cifra Club~\cite {cifra_isadecandidito}.}}{26}{figure.caption.31}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Recursos para timple en distintas plataformas digitales.}}{27}{figure.caption.32}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Páginas informativas de Ukulele Tabs}}{28}{figure.caption.33}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Páginas de UkuTabs.}}{30}{figure.caption.35}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Páginas de Ultimate Guitar.}}{32}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Páginas de LaCuerda.}}{34}{figure.caption.39}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagrama de estructura de datos de los perfiles de usuario}}{43}{figure.caption.48}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Páginas de LaCuerda.}}{44}{figure.caption.49}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Colores utilizados en la interfaz}}{45}{figure.caption.50}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Isologo de la aplicación web}}{45}{figure.caption.51}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Diseño de componentes comunes}}{46}{figure.caption.52}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Diseño de página de ajustes de cuenta de usuario}}{47}{figure.caption.53}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Diseño de página de inicio de sesión en pantalla grande}}{48}{figure.caption.54}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Creación de tabla \textit {public.profiles} y configuración de acciones y permisos}}{49}{figure.caption.55}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Plantilla de \textit {Next.js Supabase Auth Starter}}}{50}{figure.caption.56}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Plantilla de \textit {Next.js Supabase Auth Starter} con diseño actualizado}}{50}{figure.caption.57}%
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Organización de directorios en el proyecto}}{51}{figure.caption.58}%
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Colección de información del manual de usuario}}{52}{figure.caption.59}%
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Dialogos para la modificación de datos de cuenta}}{52}{figure.caption.60}%
-\contentsline {figure}{\numberline {6.14}{\ignorespaces Página de términos y condiciones del servicio}}{53}{figure.caption.61}%
-\contentsline {figure}{\numberline {6.15}{\ignorespaces Ejecución de pruebas del incremento 1 utilizando \textit {Vitest}}}{53}{figure.caption.62}%
-\contentsline {figure}{\numberline {6.16}{\ignorespaces Resultados de auditoría del incremento 1 en \textit {Lighthouse}}}{54}{figure.caption.63}%
-\contentsline {figure}{\numberline {6.17}{\ignorespaces Construcción de diagramas del acorde de \textit {GMayor} con vectores}}{57}{figure.caption.65}%
-\contentsline {figure}{\numberline {6.18}{\ignorespaces Árbol de búsqueda resultante del algoritmo de calculo de diagramas de acordes}}{59}{figure.caption.66}%
-\contentsline {figure}{\numberline {6.19}{\ignorespaces Organización de módulo del incremento 2}}{61}{figure.caption.67}%
-\contentsline {figure}{\numberline {6.20}{\ignorespaces Ejecución de pruebas del incremento 2 utilizando \textit {Vitest}}}{63}{figure.caption.68}%
-\contentsline {figure}{\numberline {6.21}{\ignorespaces Interfaz gráfica de prueba del incremento 2 para el acorde de \textit {C}}}{63}{figure.caption.69}%
-\contentsline {figure}{\numberline {6.22}{\ignorespaces Interfaz gráfica de prueba del incremento 2 para el acorde de \textit {Sol7}}}{64}{figure.caption.70}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagrama de estructura de datos de los perfiles de usuario}}{42}{figure.caption.48}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Páginas de LaCuerda.}}{43}{figure.caption.49}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Colores utilizados en la interfaz}}{44}{figure.caption.50}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Isologo de la aplicación web}}{44}{figure.caption.51}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Diseño de componentes comunes}}{45}{figure.caption.52}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Diseño de página de ajustes de cuenta de usuario}}{46}{figure.caption.53}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Diseño de página de inicio de sesión en pantalla grande}}{47}{figure.caption.54}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Creación de tabla \textit {public.profiles} y configuración de acciones y permisos}}{48}{figure.caption.55}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Plantilla de \textit {Next.js Supabase Auth Starter}}}{49}{figure.caption.56}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Plantilla de \textit {Next.js Supabase Auth Starter} con diseño actualizado}}{49}{figure.caption.57}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Organización de directorios en el proyecto}}{50}{figure.caption.58}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Colección de información del manual de usuario}}{51}{figure.caption.59}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Dialogos para la modificación de datos de cuenta}}{51}{figure.caption.60}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Página de términos y condiciones del servicio}}{52}{figure.caption.61}%
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Ejecución de pruebas del incremento 1 utilizando \textit {Vitest}}}{52}{figure.caption.62}%
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Resultados de auditoría del incremento 1 en \textit {Lighthouse}}}{53}{figure.caption.63}%
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Construcción de diagramas del acorde de \textit {GMayor} con vectores}}{56}{figure.caption.65}%
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Árbol de búsqueda resultante del algoritmo de calculo de diagramas de acordes}}{58}{figure.caption.66}%
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Organización de módulo del incremento 2}}{60}{figure.caption.67}%
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Ejecución de pruebas del incremento 2 utilizando \textit {Vitest}}}{62}{figure.caption.68}%
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Diseño de diálogo de reporte}}{62}{figure.caption.69}%
+\contentsline {figure}{\numberline {6.22}{\ignorespaces Integración del algoritmo de cálculo de diagramas de acordes en el flujo de datos}}{65}{figure.caption.72}%
+\contentsline {figure}{\numberline {6.23}{\ignorespaces Diagrama de estructura de datos de canciones, solicitudes y reportes}}{66}{figure.caption.73}%
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Diseño de páginas relacionadas con la visualización y creación de canciones}}{68}{figure.caption.74}%
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Diseño de páginas relacionadas con la solicitud de canciones y resolución de solicitudes}}{69}{figure.caption.75}%
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Diseño de página de ajustes de cuenta de usuario}}{70}{figure.caption.76}%
+\contentsline {figure}{\numberline {6.27}{\ignorespaces Diseño de diálogo de reporte}}{70}{figure.caption.77}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

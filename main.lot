@@ -5,38 +5,41 @@
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {3.1}{\ignorespaces Herramientas utilizadas y sus licencias}}{12}{table.caption.8}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Fases, estimación y tareas.}}{16}{table.caption.13}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Fases, estimación y tareas.}}{15}{table.caption.13}%
 \contentsline {table}{\numberline {4.2}{\ignorespaces Fase de desarrollo; incrementos y descripción.}}{16}{table.caption.14}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Notación latina y anglosajona}}{18}{figure.caption.16}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces Notas naturales, alteraciones y semitonos}}{20}{table.caption.18}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces Escalas diatónicas y octavas con tónicas en $Do$ y en $Re$}}{20}{table.caption.19}%
-\contentsline {table}{\numberline {5.4}{\ignorespaces Escalas cromáticas y octavas con tónicas en $Do$ y en $Re$}}{20}{table.caption.20}%
-\contentsline {table}{\numberline {5.5}{\ignorespaces Modalidades de acordes}}{21}{table.caption.21}%
-\contentsline {table}{\numberline {5.6}{\ignorespaces Transposición un acorde y una progresión}}{22}{table.caption.23}%
-\contentsline {table}{\numberline {5.7}{\ignorespaces Acordes y notas en las tonalidades de $Do$ y $Re$ Mayor}}{23}{table.caption.24}%
-\contentsline {table}{\numberline {5.8}{\ignorespaces Símbolos de rasgueo en instrumentos de cuerda pulsada}}{24}{table.caption.26}%
-\contentsline {table}{\numberline {5.9}{\ignorespaces Ejemplo de tablatura para timple}}{25}{table.caption.27}%
-\contentsline {table}{\numberline {5.10}{\ignorespaces Símbolos comunes de tablatura}}{25}{table.caption.28}%
-\contentsline {table}{\numberline {5.11}{\ignorespaces Tonalidades, grados y acordes con sus nombres folcloricos}}{26}{table.caption.30}%
-\contentsline {table}{\numberline {5.12}{\ignorespaces Utilidades presentes en publicaciones de Ukulele Tabs}}{30}{table.caption.34}%
-\contentsline {table}{\numberline {5.13}{\ignorespaces Funcionalidades disponibles según el rol del usuario de Ukulele Tabs}}{30}{table.caption.34}%
-\contentsline {table}{\numberline {5.14}{\ignorespaces Utilidades presentes en publicaciones de UkuTabs}}{32}{table.caption.36}%
-\contentsline {table}{\numberline {5.15}{\ignorespaces Funcionalidades disponibles según el rol del usuario de UkuTabs}}{32}{table.caption.36}%
-\contentsline {table}{\numberline {5.16}{\ignorespaces Utilidades presentes en publicaciones de Ultimate Guitar}}{34}{table.caption.38}%
-\contentsline {table}{\numberline {5.17}{\ignorespaces Funcionalidades disponibles según el rol del usuario de Ultimate Guitar (Vis. Visitante, Reg. registrado y Sub. Suscrito)}}{34}{table.caption.38}%
-\contentsline {table}{\numberline {5.18}{\ignorespaces Utilidades presentes en publicaciones de LaCuerda}}{36}{table.caption.40}%
-\contentsline {table}{\numberline {5.19}{\ignorespaces Funcionalidades disponibles según el rol del usuario de LaCuerda}}{36}{table.caption.40}%
-\contentsline {table}{\numberline {5.20}{\ignorespaces Comparativa de utilidades en publicaciones por aplicación web.}}{37}{table.caption.41}%
-\contentsline {table}{\numberline {5.21}{\ignorespaces Comparativa de funcionalidades por aplicación web.}}{37}{table.caption.42}%
-\contentsline {table}{\numberline {5.22}{\ignorespaces Prioridad de utilidades para TimpleTabs}}{38}{table.caption.43}%
-\contentsline {table}{\numberline {5.23}{\ignorespaces Prioridad de funcionalidades para TimpleTabs}}{38}{table.caption.43}%
-\contentsline {table}{\numberline {5.24}{\ignorespaces Requisitos Funcionales de la aplicación web reorganizados por funcionalidad}}{39}{table.caption.44}%
-\contentsline {table}{\numberline {5.25}{\ignorespaces Requisitos No Funcionales de la aplicación web}}{40}{table.caption.45}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces Notación latina y anglosajona}}{17}{figure.caption.16}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Notas naturales, alteraciones y semitonos}}{19}{table.caption.18}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Escalas diatónicas y octavas con tónicas en $Do$ y en $Re$}}{19}{table.caption.19}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Escalas cromáticas y octavas con tónicas en $Do$ y en $Re$}}{19}{table.caption.20}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Modalidades de acordes}}{20}{table.caption.21}%
+\contentsline {table}{\numberline {5.6}{\ignorespaces Transposición un acorde y una progresión}}{21}{table.caption.23}%
+\contentsline {table}{\numberline {5.7}{\ignorespaces Acordes y notas en las tonalidades de $Do$ y $Re$ Mayor}}{22}{table.caption.24}%
+\contentsline {table}{\numberline {5.8}{\ignorespaces Símbolos de rasgueo en instrumentos de cuerda pulsada}}{23}{table.caption.26}%
+\contentsline {table}{\numberline {5.9}{\ignorespaces Ejemplo de tablatura para timple}}{24}{table.caption.27}%
+\contentsline {table}{\numberline {5.10}{\ignorespaces Símbolos comunes de tablatura}}{24}{table.caption.28}%
+\contentsline {table}{\numberline {5.11}{\ignorespaces Tonalidades, grados y acordes con sus nombres folcloricos}}{25}{table.caption.30}%
+\contentsline {table}{\numberline {5.12}{\ignorespaces Utilidades presentes en publicaciones de Ukulele Tabs}}{29}{table.caption.34}%
+\contentsline {table}{\numberline {5.13}{\ignorespaces Funcionalidades disponibles según el rol del usuario de Ukulele Tabs}}{29}{table.caption.34}%
+\contentsline {table}{\numberline {5.14}{\ignorespaces Utilidades presentes en publicaciones de UkuTabs}}{31}{table.caption.36}%
+\contentsline {table}{\numberline {5.15}{\ignorespaces Funcionalidades disponibles según el rol del usuario de UkuTabs}}{31}{table.caption.36}%
+\contentsline {table}{\numberline {5.16}{\ignorespaces Utilidades presentes en publicaciones de Ultimate Guitar}}{33}{table.caption.38}%
+\contentsline {table}{\numberline {5.17}{\ignorespaces Funcionalidades disponibles según el rol del usuario de Ultimate Guitar (Vis. Visitante, Reg. registrado y Sub. Suscrito)}}{33}{table.caption.38}%
+\contentsline {table}{\numberline {5.18}{\ignorespaces Utilidades presentes en publicaciones de LaCuerda}}{35}{table.caption.40}%
+\contentsline {table}{\numberline {5.19}{\ignorespaces Funcionalidades disponibles según el rol del usuario de LaCuerda}}{35}{table.caption.40}%
+\contentsline {table}{\numberline {5.20}{\ignorespaces Comparativa de utilidades en publicaciones por aplicación web.}}{36}{table.caption.41}%
+\contentsline {table}{\numberline {5.21}{\ignorespaces Comparativa de funcionalidades por aplicación web.}}{36}{table.caption.42}%
+\contentsline {table}{\numberline {5.22}{\ignorespaces Prioridad de utilidades para TimpleTabs}}{37}{table.caption.43}%
+\contentsline {table}{\numberline {5.23}{\ignorespaces Prioridad de funcionalidades para TimpleTabs}}{37}{table.caption.43}%
+\contentsline {table}{\numberline {5.24}{\ignorespaces Requisitos Funcionales de la aplicación web reorganizados por funcionalidad}}{38}{table.caption.44}%
+\contentsline {table}{\numberline {5.25}{\ignorespaces Requisitos No Funcionales de la aplicación web}}{39}{table.caption.45}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Requisitos funcionales cubiertos en el incremento 1}}{42}{table.caption.46}%
-\contentsline {table}{\numberline {6.2}{\ignorespaces Requisitos no funcionales cubiertos en el incremento 1}}{42}{table.caption.47}%
-\contentsline {table}{\numberline {6.3}{\ignorespaces Requisitos funcionales del algoritmo de cálculo de diagramas de acordes}}{55}{table.caption.64}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Requisitos funcionales cubiertos en el incremento 1}}{41}{table.caption.46}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Requisitos no funcionales cubiertos en el incremento 1}}{41}{table.caption.47}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Requisitos funcionales del algoritmo de cálculo de diagramas de acordes}}{54}{table.caption.64}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces Requisitos funcionales cubiertos en el incremento 3}}{64}{table.caption.70}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces Requisitos no funcionales cubiertos en el incremento 3}}{64}{table.caption.71}%
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Fases, estimación, horas empleadas y tareas.}}{72}{table.caption.78}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

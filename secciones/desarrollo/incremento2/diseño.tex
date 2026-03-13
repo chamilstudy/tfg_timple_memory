@@ -8,9 +8,9 @@ La etapa de diseño de este incremento se centró en la definición de las estru
 I = [n_1, n_2, ..., n_k]
 \]
 
-donde \(k\) es el número de cuerdas del instrumento y \(n_i\) representa la nota al aire de la cuerda \(i\). De este modo, cada índice del vector corresponde a una cuerda del instrumento.
+donde \(k\) es el número de cuerdas del instrumento y \(n_i\) representa la \gls{cuerda al aire} \(i\). De este modo, cada índice del vector corresponde a una cuerda del instrumento.
 
-\textbf{En segundo lugar}, se representaron las combinaciones de trastes posibles mediante un vector
+\textbf{En segundo lugar}, se representaron las combinaciones de \gls{traste}s posibles mediante un vector
 
 \[
 C = [C_1, C_2, ..., C_k]
@@ -49,10 +49,10 @@ donde \(k\) es el número de cuerdas del instrumento y \(f_i\) representa el tra
     \item Se construye el vector instrumento \(I\)\, que contiene las notas al aire de cada cuerda.
     \item Se define el acorde acorde objetivo.
     \item Se extraen del acorde la nota raíz y la cualidad.
-    \item Se construye una escala cromática tomando como tónica la nota raíz del acorde.
+    \item Se construye una \gls{escala cromática} tomando como \gls{tónica} la nota raíz del acorde.
     \item Utilizando la escala cromática y las distancias definidas por la cualidad del acorde, se seleccionan las notas que lo conforman.
     \item Se construye el vector de combinaciones \(C\)\, que para cada cuerda del instrumento contiene los trastes en los en los que aparecen las notas del acorde dentro de una profundidad de búsqueda de cuatro trastes.
-    \item A partir del vector combinaciones, s egeneran las distintas combinaciones posibles de trastes, cada una representada mediante un vector \(D\)\ que corresponde a un diagrama de acorde.
+    \item A partir del vector combinaciones, se generan las distintas combinaciones posibles de trastes, cada una representada mediante un vector \(D\)\ que corresponde a un diagrama de acorde.
 \end{enumerate}
 
 Para comprobar la efectividad del proceso anterior, se puso a prueba para la obtencion de los diagramas del acorde de \textit{GMayor} \figref{fig:builddiagram_it2_gmayor}.
